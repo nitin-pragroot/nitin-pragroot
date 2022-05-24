@@ -1,0 +1,736 @@
+2,975 Easton RdWarringtonPA,36.5 miles,0.4 mile,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+3,180 S Prospect AveTustinCA,NA,0.4 mile,85.1 miles,50.3 miles,50.3 miles,41.9 miles,NA,0.3 mile,2.3 miles,1.0 mile,NA,NA,NA,11.5 miles
+4,4135 Providence Point Dr SEIssaquahWA,0.0 miles,NA,0.0 miles,9.7 miles,4.2 miles,NA,NA,5.0 miles,4.1 miles,4.4 miles,NA,0.0 miles,NA,2.9 miles
+5,453 Baltimore PikeSpringfieldPA,1.1 miles,1.2 miles,3.1 miles,96.9 miles,328 ft,0.5 mile,NA,99.6 miles,101 miles,1.5 miles,NA,2.2 miles,2.2 miles,1.8 miles
+6,1150 Glenlivet DrAllentownPA,NA,NA,61.4 miles,5.2 miles,NA,61.7 miles,NA,185 miles,148 miles,NA,NA,NA,NA,5.1 miles
+7,375 N Stephanie StHendersonNV,1.6 miles,NA,NA,4.3 miles,0.7 mile,1.5 miles,NA,2.3 miles,0.4 mile,2.5 miles,7.7 miles,4.5 miles,3.3 miles,2.5 miles
+8,1330 Enclave PkwyHoustonTX,9.0 miles,3.2 miles,6.2 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,8.8 miles,NA
+9,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,433 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+13,6200 Playa Vista DrPlaya VistaCA,0.3 mile,36 ft,NA,0.9 mile,2.5 miles,NA,NA,2.8 miles,2.6 miles,NA,NA,7.3 miles,12.7 miles,0.9 mile
+14,1330 Enclave PkwyHoustonTX,9.8 miles,3.2 miles,6.2 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,8.8 miles,NA
+15,1 Foxmeadow DrRoyersfordPA,NA,NA,34.7 miles,23.7 miles,3.1 miles,9.0 miles,NA,NA,10.0 miles,NA,NA,3.4 miles,NA,NA
+16,1 Foxmeadow DrRoyersfordPA,NA,NA,33.3 miles,23.7 miles,3.1 miles,9.0 miles,NA,NA,10.0 miles,NA,NA,3.4 miles,NA,NA
+18,1102 Huntingdon MewsClementonNJ,29.7 miles,35.7 miles,15.3 miles,11.0 miles,21.0 miles,31.0 miles,NA,25.5 miles,NA,NA,NA,4.0 miles,2.5 miles,0.9 mile
+19,1102 Huntingdon MewsClementonNJ,35.7 miles,35.7 miles,15.3 miles,11.0 miles,21.0 miles,31.0 miles,NA,25.5 miles,NA,NA,NA,4.0 miles,2.5 miles,1.1 miles
+20,5702 Kirkpatrick WayIndianapolisIN,7 ft,7 ft,7 ft,5.6 miles,3.3 miles,7.0 miles,NA,NA,6.2 miles,3.0 miles,NA,6.4 miles,NA,NA
+21,1500 112th Ave NEBellevueWA,0.8 mile,0.8 mile,3.9 miles,1.4 miles,3.1 miles,NA,NA,1.6 miles,2.6 miles,3.2 miles,4.4 miles,4.4 miles,3.2 miles,1.2 miles
+22,11125 N Ambassador DR #200Kansas CityMO,NA,0.0 miles,1.2 miles,23.4 miles,9.6 miles,10.3 miles,NA,5.3 miles,NA,NA,6.3 miles,3.1 miles,3.1 miles,4.2 miles
+23,975 Easton RdWarringtonPA,37.2 miles,37.2 miles,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,39.9 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+24,360 EAGLE RDNEWTOWNPA,NA,NA,7.9 miles,21.2 miles,34.7 miles,31.1 miles,NA,367 miles,251 miles,52.6 miles,96.4 miles,42.0 miles,16.0 miles,NA
+25,3400 Peachtree Rd NEAtlantaGA,9.3 miles,2.5 miles,2.4 miles,1.4 miles,3.3 miles,0.5 mile,NA,1.6 miles,NA,1.6 miles,NA,1.3 miles,NA,0.4 mile
+26,800 Embassy DrAustinTX,85 ft,85 ft,8.6 miles,0.3 mile,4.8 miles,1.2 miles,NA,3.1 miles,8.4 miles,NA,NA,2.3 miles,15.8 miles,0.6 mile
+27,"8111 LBJ Freeway, Suite 835DallasTX",23.8 miles,NA,12.7 miles,3.6 miles,2.8 miles,6.9 miles,NA,NA,2.6 miles,3.6 miles,NA,11.0 miles,3.7 miles,0.4 mile
+28,8712 RED BROOK DRLAS VEGASNV,2.3 miles,5.2 miles,NA,2.7 miles,1.5 miles,3.0 miles,NA,7.7 miles,2.3 miles,2.4 miles,NA,3.1 miles,6.6 miles,5.8 miles
+29,12801 N Central ExpyDallasTX,62 ft,62 ft,6.3 miles,4.6 miles,NA,6.5 miles,NA,10.6 miles,2.7 miles,2.4 miles,NA,11.2 miles,NA,NA
+30,5505 W HACIENDA AVELAS VEGASNV,NA,NA,NA,4.0 miles,1.4 miles,NA,NA,3.2 miles,4.4 miles,2.0 miles,2.1 miles,2.7 miles,2.7 miles,4.3 miles
+31,5855 Valley DrNorth Las VegasNV,7.1 miles,9.3 miles,NA,10.5 miles,4.5 miles,NA,NA,NA,NA,NA,NA,NA,NA,3.0 miles
+32,3 N Columbus BlvdPhiladelphiaPA,NA,NA,NA,1.8 miles,2.8 miles,1.8 miles,NA,NA,NA,NA,NA,12.0 miles,NA,NA
+33,3 N Columbus BlvdPhiladelphiaPA,NA,NA,NA,1.8 miles,2.8 miles,1.8 miles,NA,NA,NA,NA,NA,12.0 miles,NA,NA
+34,2018 156th Ave NEBellevueWA,5.5 miles,5.5 miles,4.9 miles,3.1 miles,NA,NA,NA,11.8 miles,1.3 miles,2.0 miles,NA,3.0 miles,NA,NA
+35,2450 Box Canyon DrLas VegasNV,NA,NA,NA,NA,NA,8.2 miles,NA,NA,9.3 miles,NA,NA,6.4 miles,NA,NA
+37,601 Camelback RdTannersvillePA,11.9 miles,4.2 miles,7.7 miles,NA,4.4 miles,10.5 miles,NA,1.0 mile,9.4 miles,4.5 miles,1.0 mile,9.6 miles,9.8 miles,9.9 miles
+41,10501 W Lone Mountain RdLas VegasNV,NA,NA,3 ft,8.5 miles,2.3 miles,5.0 miles,NA,2.5 miles,10.5 miles,7.0 miles,NA,4.5 miles,6.2 miles,2.9 miles
+42,10245 S Maryland PkwyLas VegasNV,NA,17.5 miles,12.1 miles,6.4 miles,0.8 mile,18.7 miles,NA,NA,0.7 mile,0.8 mile,NA,14.3 miles,14.3 miles,0.8 mile
+43,3400 CLIFF SHADOWS PKWYLAS VEGASNV,0.8 mile,NA,0.3 mile,6.2 miles,0.3 mile,19.8 miles,NA,0.3 mile,13.0 miles,4.4 miles,NA,17.5 miles,6.5 miles,0.6 mile
+44,3400 CLIFF SHADOWS PKWYLAS VEGASNV,0.8 mile,NA,0.3 mile,6.2 miles,0.3 mile,19.8 miles,NA,0.3 mile,13.2 miles,4.4 miles,NA,17.5 miles,6.5 miles,0.6 mile
+45,IRVINE VLYIRVINECA,2.3 miles,3.1 miles,14.2 miles,3.8 miles,7.7 miles,7.7 miles,4.8 miles,5.4 miles,6.8 miles,2.3 miles,2.3 miles,1.0 mile,1.0 mile,0.7 mile
+46,3145 E Flamingo RdLas VegasNV,3.1 miles,0.5 mile,0.1 mile,7.7 miles,1.3 miles,2.7 miles,NA,25.5 miles,3.8 miles,1.3 miles,3.4 miles,3.7 miles,3.7 miles,1.5 miles
+47,12 Chapel AveJersey CityNJ,NA,10.3 miles,1.7 miles,NA,2.4 miles,4.4 miles,NA,NA,NA,1.7 miles,NA,1.6 miles,NA,NA
+49,2500 Legacy DrFriscoTX,NA,3.3 miles,NA,NA,NA,5.0 miles,NA,1.9 miles,NA,2.5 miles,NA,4.7 miles,1.0 mile,1.1 miles
+50,1800 Preston Park BlvdPlanoTX,9.6 miles,5.7 miles,1.6 miles,0.9 mile,3.1 miles,5.7 miles,NA,9.3 miles,5.0 miles,1.0 mile,NA,8.6 miles,1.6 miles,0.5 mile
+51,12700 Park Central Dr. #600DallasTX,7.9 miles,5.3 miles,6.4 miles,5.7 miles,NA,2.7 miles,NA,8.2 miles,2.1 miles,5.2 miles,NA,10.5 miles,3.7 miles,1.4 miles
+52,PO Box 10968PleasantonCA,NA,NA,11.9 miles,9.3 miles,NA,101 miles,NA,53.1 miles,86.7 miles,32.7 miles,48.1 miles,43.6 miles,3.9 miles,2.6 miles
+53,1330 Enclave PkwyHoustonTX,9.8 miles,3.2 miles,6.2 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+55,1808 Old Meadow RdMc LeanVA,NA,NA,NA,2.3 miles,NA,NA,NA,NA,NA,NA,NA,11.1 miles,NA,NA
+56,1111 Bering DrHoustonTX,8.9 miles,5.5 miles,2.2 miles,1.8 miles,2.5 miles,3.0 miles,NA,6.3 miles,3.6 miles,2.1 miles,3.3 miles,1.1 miles,1.1 miles,NA
+59,17130 Dallas PkwyDallasTX,2.3 miles,NA,13.7 miles,7.6 miles,NA,6.6 miles,NA,2.2 miles,NA,3.6 miles,NA,3.0 miles,NA,NA
+60,1550 SW Market StLees SummitMO,2.2 miles,3.5 miles,24.0 miles,17.6 miles,2.8 miles,3.8 miles,NA,NA,NA,3.3 miles,3.6 miles,2.1 miles,9.7 miles,2.9 miles
+61,3 N Columbus Blvd Ste 300PhiladelphiaPA,NA,2.7 miles,NA,NA,2.8 miles,1.8 miles,NA,NA,NA,NA,NA,9.4 miles,NA,NA
+62,3 N Columbus Blvd Ste 300PhiladelphiaPA,NA,2.7 miles,NA,NA,2.8 miles,1.8 miles,NA,NA,NA,NA,NA,9.4 miles,NA,NA
+65,1 Foxmeadow DrRoyersfordPA,NA,NA,33.3 miles,23.7 miles,3.1 miles,9.0 miles,NA,NA,10.0 miles,NA,NA,3.4 miles,NA,NA
+66,2601 Indian DrAlexandriaVA,3.2 miles,2.3 miles,95.5 miles,NA,NA,193 miles,NA,2.3 miles,NA,NA,NA,20 ft,NA,NA
+67,24422 Avenida de la CarlotaLaguna HillsCA,NA,NA,NA,4.7 miles,1.8 miles,60.9 miles,NA,NA,6.4 miles,2.6 miles,NA,10.0 miles,NA,1.7 miles
+68,158 Macintosh WayUplandCA,NA,"2,000 miles",48.9 miles,4.7 miles,1.6 miles,39.8 miles,NA,48.1 miles,NA,NA,NA,52.7 miles,NA,NA
+69,2312 N Broad StColmarPA,NA,18.5 miles,NA,6.4 miles,NA,18.7 miles,NA,NA,23.3 miles,0.6 mile,NA,39.3 miles,NA,NA
+70,3424 Paesanos PkwySan AntonioTX,0.4 mile,4.1 miles,3.4 miles,3.1 miles,3.9 miles,9.0 miles,14.7 miles,8.1 miles,8.2 miles,10.8 miles,19.6 miles,14.6 miles,16.6 miles,6.5 miles
+71,A1 AVON DREAST WINDSORNJ,0.7 mile,4.1 miles,NA,11.8 miles,3.4 miles,5.4 miles,NA,1.9 miles,11.3 miles,3.4 miles,7.4 miles,2.6 miles,2.6 miles,4.0 miles
+72,1800 Preston Park BlvdPlanoTX,16.1 miles,5.7 miles,1.6 miles,0.9 mile,3.1 miles,7.6 miles,NA,4.8 miles,5.0 miles,1.0 mile,NA,8.6 miles,1.6 miles,0.5 mile
+74,5680 NW Plantation LnLees SummitMO,3.9 miles,6.7 miles,7.9 miles,NA,11.3 miles,243 miles,NA,NA,NA,4.2 miles,NA,2.4 miles,2.4 miles,9.8 miles
+76,19420 Golf Vista PlzLeesburgVA,NA,NA,5.9 miles,1.1 miles,3.6 miles,198 miles,NA,NA,NA,NA,NA,9.2 miles,NA,1.0 mile
+77,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,23.6 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,6.9 miles,1.1 miles
+78,1200 Avenue At Port ImperialWeehawkenNJ,36 ft,36 ft,36 ft,NA,NA,NA,NA,NA,NA,0.3 mile,10.6 miles,0.3 mile,NA,NA
+79,6201 Virginia PkwyMcKinneyTX,0.4 mile,5.4 miles,0.0 miles,7.1 miles,3.9 miles,5.9 miles,NA,2.1 miles,3.5 miles,3.0 miles,NA,1.0 mile,1.0 mile,0.6 mile
+80,200 Winding WayDowningtownPA,130 miles,NA,NA,NA,7.8 miles,38.0 miles,NA,NA,NA,NA,615 miles,NA,NA,8.1 miles
+81,17933 NW Evergreen PlBeavertonOR,NA,NA,NA,1.0 mile,0.8 mile,3.5 miles,NA,5.1 miles,NA,0.3 mile,NA,11.9 miles,NA,0.3 mile
+82,850 GARDEN STMILPITASCA,18.1 miles,15.4 miles,27.3 miles,14.6 miles,1.2 miles,63.9 miles,NA,30.1 miles,NA,NA,NA,10.8 miles,NA,7.9 miles
+85,2500 Legacy DrFriscoTX,NA,3.3 miles,NA,NA,NA,5.0 miles,NA,1.9 miles,NA,NA,NA,4.7 miles,1.0 mile,1.1 miles
+86,23046 Avenida de la CarlotaLaguna HillsCA,NA,NA,8.2 miles,6.9 miles,2.2 miles,13.7 miles,NA,1.7 miles,7.2 miles,1.8 miles,NA,8.3 miles,NA,3.9 miles
+87,1501 CENTRE POINTE DRMILPITASCA,12.9 miles,3.2 miles,51.8 miles,46.1 miles,NA,49.7 miles,NA,2.2 miles,5.0 miles,NA,NA,4.5 miles,NA,2.5 miles
+88,21 Christopher wayEatontownNJ,NA,2.6 miles,NA,19.7 miles,4.3 miles,57.9 miles,NA,0.8 mile,NA,14.7 miles,NA,39.5 miles,NA,1.7 miles
+89,12700 Park Central DrDallasTX,7.3 miles,5.3 miles,7.0 miles,5.0 miles,NA,2.5 miles,NA,2.5 miles,13.6 miles,4.7 miles,NA,5.6 miles,NA,NA
+90,535 Pierce StAlbanyCA,0.2 mile,1.3 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2 mile,NA,NA
+91,2120 Ramrod AveHendersonNV,NA,NA,NA,4.3 miles,NA,0.8 mile,NA,NA,NA,NA,NA,5.6 miles,NA,NA
+92,1012 Abby RdMiddletownNJ,NA,NA,42.7 miles,41.3 miles,39.7 miles,54.5 miles,NA,469 miles,111 miles,94.7 miles,NA,10.8 miles,NA,3.6 miles
+93,1 Willow Pond DrHowellNJ,0.0 miles,240 miles,12.1 miles,14.2 miles,6.0 miles,5.5 miles,NA,28.6 miles,16.4 miles,3.2 miles,2.7 miles,5.7 miles,7.7 miles,6.4 miles
+96,3949 Pender Dr Ste 205FairfaxVA,24.0 miles,33.3 miles,16.1 miles,3.6 miles,0.6 mile,21.5 miles,NA,NA,0.3 mile,NA,NA,3.2 miles,NA,2.5 miles
+97,100 Franklin Square DrSomersetNJ,2.1 miles,3.8 miles,11.7 miles,NA,NA,71.7 miles,NA,2.6 miles,NA,1.6 miles,NA,4.5 miles,NA,59.1 miles
+99,5448 N Paseo de la TerrazaTucsonAZ,NA,NA,NA,NA,NA,11.2 miles,NA,8.6 miles,NA,NA,NA,25.8 miles,NA,NA
+100,1200 Avenue At Port ImperialWeehawkenNJ,36 ft,36 ft,36 ft,NA,NA,NA,NA,NA,NA,0.3 mile,NA,0.3 mile,NA,NA
+101,3401 College BlvdLeawoodKS,NA,NA,NA,NA,NA,184 miles,NA,"1,181 miles",NA,NA,NA,9.4 miles,NA,NA
+102,5419 W 145th StLeawoodKS,1.6 miles,4.1 miles,NA,4.2 miles,NA,11.8 miles,NA,NA,NA,2.7 miles,NA,2.9 miles,NA,NA
+103,100 W Portland StPhoenixAZ,0.0 miles,1.3 miles,7.9 miles,6.7 miles,1.6 miles,1.6 miles,NA,10.3 miles,4.0 miles,1.1 miles,NA,2.2 miles,2.4 miles,1.1 miles
+104,15371 Westland Gate DrConroeTX,NA,NA,2.1 miles,7.5 miles,8.2 miles,8.7 miles,NA,NA,0.9 mile,4.6 miles,NA,11.8 miles,11.8 miles,6.9 miles
+107,4501 Bergenwood AveNorth BergenNJ,NA,0.2 mile,2.9 miles,2.1 miles,2.5 miles,12.3 miles,NA,13.1 miles,NA,1.6 miles,NA,10.3 miles,NA,2.1 miles
+108,17235 N 75th AveGlendaleAZ,4.5 miles,8.6 miles,NA,27.2 miles,9.9 miles,1.9 miles,NA,4.3 miles,0.3 mile,4.1 miles,NA,3.7 miles,NA,2.3 miles
+109,975 Easton RdWarringtonPA,36.5 miles,36.5 miles,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+110,9214 Kings Canyon DrCharlotteNC,NA,NA,13.7 miles,8.9 miles,7.7 miles,14.9 miles,NA,NA,5.5 miles,8.7 miles,NA,27.7 miles,NA,3.3 miles
+111,1023 Aquamarine TerUnion CityCA,360 miles,1.5 miles,38.1 miles,16.6 miles,0.8 mile,16.5 miles,NA,20.3 miles,30.0 miles,NA,NA,19.8 miles,18.3 miles,1.7 miles
+112,20251 Cape Coral LnHuntington BeachCA,2.6 miles,1.5 miles,"2,655 miles",NA,1.9 miles,"2,655 miles",NA,30.6 miles,3.8 miles,1.0 mile,"2,654 miles","2,653 miles","2,657 miles","2,655 miles"
+114,2603 Main StIrvineCA,3.2 miles,1.5 miles,NA,7.3 miles,NA,4.6 miles,NA,10.9 miles,15.8 miles,0.4 mile,11.6 miles,2.9 miles,NA,1.8 miles
+115,3704 Mykonos Ln # 179-18San DiegoCA,NA,NA,NA,4.1 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7 mile
+116,PO Box 28100AtlantaGA,8.1 miles,NA,NA,10.1 miles,NA,10.3 miles,NA,NA,16.3 miles,NA,NA,NA,NA,NA
+117,10769 Woodside AveSanteeCA,2.4 miles,1.5 miles,0.9 mile,NA,NA,22.0 miles,NA,0.9 mile,NA,NA,NA,3.1 miles,NA,NA
+118,2211 NE 107th TerKansas CityMO,NA,10.4 miles,NA,23.0 miles,NA,226 miles,NA,NA,10.0 miles,8.0 miles,NA,5.7 miles,NA,NA
+407,12801 N Central ExpyDallasTX,62 ft,62 ft,5.7 miles,4.6 miles,NA,5.6 miles,NA,10.6 miles,2.7 miles,2.4 miles,NA,11.2 miles,NA,NA
+409,1102 Huntingdon MewsClementonNJ,32.9 miles,32.9 miles,15.3 miles,12.2 miles,16.1 miles,15.3 miles,NA,25.5 miles,NA,NA,NA,4.0 miles,2.5 miles,1.1 miles
+96,3949 Pender Dr Ste 205FairfaxVA,24.0 miles,33.3 miles,16.1 miles,3.6 miles,0.6 mile,21.5 miles,NA,NA,0.3 mile,NA,NA,3.2 miles,NA,2.5 miles
+97,100 Franklin Square DrSomersetNJ,2.1 miles,3.8 miles,59.0 miles,NA,NA,63.6 miles,NA,2.6 miles,NA,1.6 miles,NA,4.5 miles,NA,59.1 miles
+100,1200 Avenue At Port ImperialWeehawkenNJ,36 ft,36 ft,36 ft,NA,NA,NA,NA,NA,NA,0.3 mile,NA,0.3 mile,NA,NA
+101,3401 College BlvdLeawoodKS,NA,NA,NA,NA,9.3 miles,184 miles,NA,"1,181 miles",NA,NA,NA,9.4 miles,NA,NA
+102,5419 W 145th StLeawoodKS,1.6 miles,4.1 miles,NA,4.2 miles,NA,11.8 miles,NA,NA,NA,2.7 miles,NA,2.9 miles,NA,NA
+103,100 W Portland StPhoenixAZ,0.0 miles,1.3 miles,7.9 miles,6.6 miles,1.6 miles,3.2 miles,NA,9.7 miles,4.0 miles,1.1 miles,NA,2.2 miles,2.4 miles,1.1 miles
+104,15371 Westland Gate DrConroeTX,NA,NA,2.1 miles,8.6 miles,8.2 miles,8.7 miles,NA,NA,0.9 mile,4.6 miles,NA,11.8 miles,11.8 miles,6.9 miles
+107,4501 Bergenwood AveNorth BergenNJ,NA,0.2 mile,2.9 miles,2.1 miles,2.5 miles,9.1 miles,NA,13.1 miles,NA,2.2 miles,NA,10.3 miles,NA,2.1 miles
+108,17235 N 75th AveGlendaleAZ,4.5 miles,8.6 miles,NA,27.2 miles,15.3 miles,1.8 miles,NA,4.3 miles,0.3 mile,4.1 miles,NA,3.7 miles,NA,2.3 miles
+109,975 Easton RdWarringtonPA,36.5 miles,NA,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,39.9 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+110,9214 Kings Canyon DrCharlotteNC,6.1 miles,9.3 miles,13.7 miles,8.9 miles,7.7 miles,14.9 miles,NA,NA,5.5 miles,4.6 miles,NA,27.7 miles,NA,3.3 miles
+111,1023 Aquamarine TerUnion CityCA,360 miles,1.5 miles,38.1 miles,16.6 miles,0.8 mile,16.5 miles,NA,20.3 miles,30.0 miles,NA,NA,19.8 miles,21.3 miles,1.7 miles
+112,20251 Cape Coral LnHuntington BeachCA,2.6 miles,1.5 miles,"2,653 miles",NA,1.9 miles,"2,654 miles",NA,30.6 miles,3.8 miles,1.0 mile,"2,652 miles","2,652 miles","2,655 miles","2,653 miles"
+114,2603 Main StIrvineCA,3.7 miles,1.5 miles,NA,1.9 miles,NA,4.6 miles,NA,10.9 miles,10.6 miles,0.4 mile,11.6 miles,2.9 miles,NA,1.8 miles
+115,3704 Mykonos Ln # 179-18San DiegoCA,NA,NA,NA,4.1 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.7 mile
+116,PO Box 28100AtlantaGA,8.1 miles,NA,NA,10.1 miles,NA,10.3 miles,NA,NA,14.0 miles,NA,NA,NA,12.8 miles,21.7 miles
+117,10769 Woodside AveSanteeCA,0.6 mile,1.5 miles,0.9 mile,NA,NA,NA,NA,0.9 mile,NA,NA,NA,3.1 miles,NA,NA
+118,2211 NE 107th TerKansas CityMO,NA,10.4 miles,NA,23.0 miles,NA,226 miles,NA,NA,NA,2.2 miles,NA,5.7 miles,NA,NA
+120,26840 Aliso Viejo PkwyAliso ViejoCA,0.5 mile,0.7 mile,NA,2.2 miles,0.7 mile,NA,NA,1.9 miles,7.3 miles,0.7 mile,NA,2.5 miles,2.5 miles,1.4 miles
+122,5702 Kirkpatrick WayIndianapolisIN,7 ft,7 ft,7 ft,5.7 miles,3.3 miles,7.0 miles,NA,NA,6.2 miles,3.0 miles,NA,6.4 miles,NA,NA
+123,1 Playa CirAliso ViejoCA,NA,12.2 miles,7.1 miles,4.1 miles,3.6 miles,25.2 miles,NA,1.9 miles,6.4 miles,3.1 miles,8.2 miles,6.6 miles,5.3 miles,4.7 miles
+124,330 Jade CtSan RamonCA,3.8 miles,3.8 miles,114 miles,1.6 miles,4.8 miles,30.0 miles,NA,18.8 miles,35.7 miles,2.6 miles,NA,0.5 mile,NA,4.9 miles
+125,3260 E Indian School RdPhoenixAZ,13 ft,13 ft,13 ft,2.4 miles,2.6 miles,2.7 miles,NA,10.6 miles,5.4 miles,486 ft,NA,10.3 miles,NA,0.7 mile
+126,1330 Enclave PkwyHoustonTX,10.0 miles,3.2 miles,6.2 miles,NA,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+128,1275 Center Court DrCovinaCA,NA,NA,128 miles,NA,NA,NA,NA,372 miles,NA,NA,NA,NA,NA,NA
+130,5309 Painted Mirage RdLas VegasNV,15.9 miles,NA,15.7 miles,10.6 miles,4.4 miles,2.7 miles,NA,32.2 miles,7.7 miles,4.2 miles,NA,0.7 mile,0.7 mile,1.3 miles
+131,1330 Enclave PkwyHoustonTX,10.0 miles,3.2 miles,6.2 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+132,6551 Sand Point Way NESeattleWA,21.9 miles,5.2 miles,17.4 miles,2.7 miles,4.4 miles,7.7 miles,NA,8.1 miles,12.8 miles,1.0 mile,NA,1.4 miles,1.4 miles,1.6 miles
+135,1800 Preston Park BlvdPlanoTX,16.5 miles,5.7 miles,1.6 miles,0.9 mile,3.1 miles,7.3 miles,NA,4.8 miles,4.4 miles,1.0 mile,NA,8.7 miles,1.6 miles,0.5 mile
+136,1000 Golden Springs DrDiamond BarCA,0.8 mile,NA,NA,12.9 miles,NA,NA,NA,2.3 miles,NA,1.7 miles,NA,2.6 miles,NA,2.9 miles
+138,9200 Kings Canyon DrCharlotteNC,NA,NA,NA,4.0 miles,3.2 miles,14.9 miles,NA,NA,NA,2.1 miles,NA,6.0 miles,NA,3.3 miles
+139,221 First Ave. West #205SeattleWA,2.1 miles,1.4 miles,12.2 miles,NA,5.4 miles,2.0 miles,NA,0.7 mile,4.6 miles,1.5 miles,NA,1.9 miles,4.5 miles,0.2 mile
+140,3424 Paesanos PkwySan AntonioTX,0.4 mile,4.1 miles,3.4 miles,3.0 miles,10.7 miles,13.9 miles,17.4 miles,27.0 miles,8.2 miles,10.8 miles,19.5 miles,10.7 miles,14.2 miles,6.5 miles
+141,9060 Irvine Center DrIrvineCA,8.1 miles,9.0 miles,9.8 miles,1.1 miles,2.6 miles,7.7 miles,NA,7.1 miles,2.4 miles,2.8 miles,1.7 miles,1.9 miles,8.2 miles,3.1 miles
+142,1781 Del Monte BlvdSeasideCA,14.1 miles,3.8 miles,70.5 miles,4.5 miles,0.3 mile,16.1 miles,NA,NA,NA,0.7 mile,NA,2.7 miles,3.2 miles,1.9 miles
+143,21 Christopher wayEatontownNJ,NA,2.6 miles,NA,11.6 miles,21.2 miles,60.1 miles,NA,0.8 mile,NA,14.7 miles,NA,39.5 miles,NA,1.7 miles
+144,11500 N Ambassador DrKansas CityMO,NA,18.2 miles,0.7 mile,NA,5.1 miles,20.5 miles,NA,28.3 miles,2.2 miles,5.1 miles,NA,3.6 miles,NA,4.0 miles
+145,3210 Caminito EastbluffLa JollaCA,5.4 miles,2.5 miles,30.4 miles,1.0 mile,5.0 miles,109 miles,NA,10.5 miles,8.8 miles,NA,NA,4.2 miles,5.1 miles,0.7 mile
+146,18 KemptonIrvineCA,44.6 miles,23.9 miles,NA,6.1 miles,9.0 miles,6.8 miles,NA,5.1 miles,NA,NA,68.2 miles,51.4 miles,67.7 miles,NA
+147,1800 Preston Park BlvdPlanoTX,16.1 miles,5.7 miles,1.6 miles,0.9 mile,3.1 miles,5.6 miles,NA,4.9 miles,4.4 miles,1.0 mile,NA,8.6 miles,1.6 miles,0.5 mile
+148,9665 Chesapeake DrSan DiegoCA,49 ft,"2,649 miles",NA,7.7 miles,2.5 miles,3.9 miles,NA,12.0 miles,1.0 mile,3.1 miles,13.8 miles,8.0 miles,NA,3.0 miles
+149,1 Aruba StLaguna NiguelCA,NA,NA,3.0 miles,3.4 miles,NA,6.0 miles,NA,NA,NA,NA,NA,17.1 miles,2.8 miles,NA
+150,5702 Kirkpatrick WayIndianapolisIN,7 ft,7 ft,7 ft,5.7 miles,3.3 miles,7.0 miles,NA,NA,6.2 miles,3.0 miles,NA,6.4 miles,NA,NA
+151,1800 Preston Park BlvdPlanoTX,16.1 miles,5.7 miles,1.6 miles,0.9 mile,3.1 miles,5.6 miles,NA,4.9 miles,4.4 miles,1.0 mile,NA,8.6 miles,1.6 miles,0.5 mile
+153,200 Valley RdMount ArlingtonNJ,2.5 miles,2.4 miles,23.0 miles,22.8 miles,0.5 mile,33.9 miles,NA,33.1 miles,37.1 miles,34.1 miles,19.0 miles,13.7 miles,12.7 miles,31.4 miles
+154,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+155,4212 S 47th StPhoenixAZ,7.6 miles,5.7 miles,9.7 miles,NA,0.2 mile,10.4 miles,NA,2.9 miles,NA,0.4 mile,NA,3.6 miles,NA,5.4 miles
+157,80 S Jefferson RdWhippanyNJ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+158,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+159,11351 Random Hills RoadFAIRFAXVA,157 miles,2.8 miles,0.7 mile,2.7 miles,0.3 mile,3.5 miles,NA,0.4 mile,0.7 mile,0.4 mile,0.4 mile,1.9 miles,4.3 miles,1.2 miles
+160,1560 Spring Meadow DrLakewoodNJ,203 miles,60.8 miles,4.3 miles,14.0 miles,7.7 miles,78.0 miles,NA,286 miles,NA,NA,NA,0.5 mile,NA,2.1 miles
+161,100 CLUBHOUSE CIRGARNET VALLEYPA,47.8 miles,NA,61.3 miles,NA,NA,8.9 miles,NA,115 miles,91.3 miles,69.0 miles,NA,5.9 miles,NA,1.1 miles
+163,12801 N Central ExpyDallasTX,62 ft,62 ft,5.7 miles,4.6 miles,NA,6.5 miles,NA,10.6 miles,2.7 miles,2.4 miles,NA,10.8 miles,NA,NA
+165,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+166,21103 Via ArnazYorba LindaCA,37.0 miles,NA,96.5 miles,28.2 miles,NA,38.5 miles,NA,NA,NA,NA,NA,5.4 miles,NA,4.7 miles
+167,2805 North Dallas ParkwayPlanoTX,5.9 miles,7.5 miles,5.2 miles,3.0 miles,NA,4.8 miles,NA,1.3 miles,NA,1.4 miles,NA,2.1 miles,NA,NA
+168,3020 Hamaker CtFairfaxVA,16.4 miles,4.0 miles,23.5 miles,10.6 miles,0.8 mile,2.6 miles,NA,NA,6.1 miles,3.7 miles,NA,4.9 miles,7.3 miles,1.0 mile
+169,2633 Richardson DrCharlotteNC,2.9 miles,0.0 miles,7.7 miles,1.4 miles,11.1 miles,9.1 miles,NA,NA,2.4 miles,2.1 miles,NA,8.8 miles,NA,8.2 miles
+170,1245 S Winchester BlvdSan JoseCA,9.2 miles,7.4 miles,7.3 miles,7.1 miles,NA,6.2 miles,NA,NA,2.6 miles,0.5 mile,NA,8.9 miles,NA,0.3 mile
+171,1 Riverpointe PlzJeffersonvilleIN,NA,NA,26.1 miles,NA,NA,2.6 miles,NA,NA,NA,NA,NA,4.2 miles,NA,NA
+172,215 W Church RdKing Of PrussiaPA,2.2 miles,1.8 miles,0.7 mile,NA,NA,2.9 miles,NA,3.9 miles,NA,NA,3.7 miles,1.6 miles,NA,NA
+173,1301 Central Expy NAllenTX,28.6 miles,NA,3.7 miles,4.1 miles,6.5 miles,24.0 miles,NA,"1,098 miles",NA,NA,NA,13.5 miles,NA,NA
+174,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+175,1770 Lancaster AvePaoliPA,10.9 miles,10.9 miles,12.2 miles,3.7 miles,3.8 miles,41.7 miles,NA,47.0 miles,51.6 miles,0.6 mile,NA,5.2 miles,1.3 miles,0.8 mile
+176,1800 SW 1st Avenue #1PortlandOR,1.7 miles,0.4 mile,8.0 miles,1.4 miles,3.8 miles,1.0 mile,NA,0.9 mile,0.4 mile,0.9 mile,0.9 mile,11.7 miles,10.0 miles,0.4 mile
+177,400 Campus DrCollegevillePA,3.1 miles,NA,0.2 mile,2.8 miles,4.3 miles,27.1 miles,NA,381 miles,NA,1.3 miles,NA,2.4 miles,NA,1.4 miles
+178,1600 Church RdWyncotePA,NA,NA,NA,NA,NA,1.4 miles,NA,NA,NA,NA,NA,14.2 miles,NA,NA
+179,501 Office Center DrFort WashingtonPA,1.8 miles,2.2 miles,15.4 miles,5.0 miles,4.4 miles,26.5 miles,NA,4.9 miles,10.1 miles,0.6 mile,1.8 miles,2.4 miles,NA,306 miles
+180,1 Polaris WayAliso ViejoCA,NA,1.9 miles,6.3 miles,3.2 miles,1.5 miles,52.5 miles,NA,3.2 miles,5.7 miles,NA,7.4 miles,6.7 miles,1.5 miles,0.4 mile
+181,148 Paramount # 152IrvineCA,37.0 miles,NA,NA,NA,34.9 miles,43.9 miles,NA,81.0 miles,NA,NA,NA,9.2 miles,NA,NA
+182,4042 E Cortez StPhoenixAZ,NA,13.6 miles,8.0 miles,NA,NA,9.1 miles,NA,8.0 miles,NA,NA,NA,1.8 miles,NA,NA
+183,1090 King Georges Post RdEdisonNJ,1.6 miles,5.9 miles,36.8 miles,4.9 miles,2.7 miles,43.9 miles,NA,NA,NA,3.1 miles,NA,6.2 miles,6.2 miles,3.9 miles
+184,28990 N White Feather LnScottsdaleAZ,NA,NA,NA,10.5 miles,15.6 miles,15.8 miles,NA,NA,NA,8.7 miles,NA,0.5 mile,NA,6.4 miles
+185,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,13.3 miles,NA,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+186,2800 Thorndyke Ave WSeattleWA,NA,NA,NA,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,1.2 miles
+187,2800 Thorndyke Ave WSeattleWA,NA,NA,NA,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,1.2 miles
+188,4035 Ridge Top RdFairfaxVA,93.5 miles,3.2 miles,1.0 mile,2.8 miles,0.5 mile,21.2 miles,NA,NA,NA,4.3 miles,NA,2.4 miles,NA,1.0 mile
+192,1801 Scimitar DrHendersonNV,NA,NA,NA,4.6 miles,NA,NA,NA,NA,NA,NA,NA,3.6 miles,3.6 miles,2.2 miles
+193,2920 N Green Valley PkwyHendersonNV,0.1 mile,5.2 miles,6.9 miles,4.8 miles,0.5 mile,1.8 miles,NA,NA,NA,2.3 miles,NA,2.6 miles,NA,2.4 miles
+194,9305 Mesa Verde Dr Apt AMontclairCA,NA,NA,NA,NA,1.1 miles,2.3 miles,NA,NA,NA,2.1 miles,NA,NA,NA,NA
+195,5000 S RAINBOW BLVDLAS VEGASNV,10.7 miles,4.7 miles,4.7 miles,6.1 miles,2.6 miles,4.3 miles,3.4 miles,18.0 miles,2.9 miles,0.6 mile,NA,8.1 miles,6.0 miles,1.3 miles
+196,1100 Northmeadow PkwyRoswellGA,1.0 mile,2.7 miles,NA,3.0 miles,NA,0.7 mile,NA,NA,NA,4.4 miles,NA,7.6 miles,NA,2.5 miles
+199,3710 Rawlins StDallasTX,0.4 mile,0.4 mile,4.1 miles,NA,NA,1.3 miles,NA,0.9 mile,13.3 miles,NA,NA,NA,NA,NA
+200,109 REFUGE DR EDRUMSPA,NA,NA,NA,NA,7.1 miles,309 miles,NA,121 miles,43.9 miles,NA,NA,NA,NA,NA
+201,1800 Gateway DrSan MateoCA,3.0 miles,1.9 miles,4.4 miles,1.9 miles,NA,1.0 mile,5.3 miles,2.1 miles,NA,4.4 miles,NA,3.6 miles,NA,0.5 mile
+202,1 Waterway CtSpringTX,3.1 miles,249 miles,NA,1.5 miles,NA,2.1 miles,NA,NA,NA,NA,16.7 miles,NA,NA,NA
+203,3815 Starfield LnLas VegasNV,12.8 miles,"1,236 miles",8.3 miles,2.9 miles,0.4 mile,3.6 miles,13.4 miles,27.8 miles,17.7 miles,4.5 miles,NA,3.0 miles,NA,3.1 miles
+204,1 Polaris Way Ste 100Aliso ViejoCA,7.7 miles,NA,6.3 miles,NA,3.4 miles,NA,NA,0.7 mile,NA,NA,NA,6.7 miles,NA,NA
+188,4035 Ridge Top RdFairfaxVA,93.5 miles,3.2 miles,1.0 mile,2.8 miles,0.5 mile,181 miles,NA,NA,NA,1.0 mile,NA,2.4 miles,NA,1.0 mile
+192,1801 Scimitar DrHendersonNV,NA,NA,4.0 miles,4.6 miles,NA,2.1 miles,NA,NA,16.9 miles,NA,NA,3.6 miles,5.1 miles,2.2 miles
+193,2920 N Green Valley PkwyHendersonNV,0.1 mile,5.2 miles,6.9 miles,4.8 miles,0.5 mile,1.8 miles,NA,NA,4.1 miles,2.3 miles,NA,2.6 miles,NA,2.4 miles
+194,9305 Mesa Verde Dr Apt AMontclairCA,NA,NA,NA,NA,1.1 miles,2.3 miles,NA,NA,7.0 miles,2.1 miles,NA,NA,NA,NA
+195,5000 S RAINBOW BLVDLAS VEGASNV,10.7 miles,4.7 miles,4.7 miles,6.1 miles,2.6 miles,4.3 miles,3.4 miles,18.0 miles,2.9 miles,0.6 mile,NA,8.1 miles,6.0 miles,1.3 miles
+196,1100 Northmeadow PkwyRoswellGA,1.0 mile,2.7 miles,NA,3.0 miles,NA,0.7 mile,NA,NA,14.4 miles,NA,NA,8.0 miles,NA,2.5 miles
+199,3710 Rawlins StDallasTX,NA,NA,4.1 miles,NA,NA,7.7 miles,NA,0.9 mile,13.3 miles,NA,NA,6.1 miles,NA,NA
+200,109 REFUGE DR EDRUMSPA,NA,NA,NA,NA,7.1 miles,309 miles,NA,121 miles,43.9 miles,NA,NA,3.9 miles,NA,NA
+201,1800 Gateway DrSan MateoCA,3.0 miles,2.7 miles,4.4 miles,2.6 miles,NA,1.0 mile,4.8 miles,2.1 miles,NA,4.4 miles,NA,3.6 miles,NA,0.5 mile
+202,1 Waterway CtSpringTX,3.1 miles,249 miles,NA,1.5 miles,NA,2.1 miles,NA,NA,NA,NA,16.7 miles,NA,NA,NA
+203,3815 Starfield LnLas VegasNV,NA,"1,236 miles",NA,NA,0.4 mile,3.6 miles,13.4 miles,27.8 miles,17.7 miles,4.5 miles,NA,3.2 miles,NA,3.1 miles
+204,1 Polaris Way Ste 100Aliso ViejoCA,7.7 miles,NA,6.3 miles,NA,3.4 miles,NA,NA,NA,NA,NA,NA,6.7 miles,NA,NA
+205,838 Galt TerSunnyvaleCA,106 miles,97.2 miles,12.6 miles,2.3 miles,2.6 miles,NA,NA,NA,NA,NA,NA,3.5 miles,NA,9.5 miles
+206,11135 S Eastern AveHendersonNV,3.7 miles,NA,1.4 miles,3.2 miles,2.7 miles,1.5 miles,NA,NA,7.3 miles,1.8 miles,NA,3.4 miles,NA,1.1 miles
+207,12 VIA CORDOBARANCHO SANTA MARGARITACA,1.4 miles,0.5 mile,74.2 miles,59.6 miles,1.3 miles,21.8 miles,NA,0.3 mile,8.0 miles,0.6 mile,NA,3.2 miles,3.2 miles,0.3 mile
+208,25115 Avenue StanfordValenciaCA,59.9 miles,31.2 miles,10.2 miles,2.6 miles,3.3 miles,22.7 miles,NA,NA,NA,22.0 miles,NA,3.1 miles,NA,NA
+209,6655 S Cimarron RdLas VegasNV,1.7 miles,NA,6.2 miles,7.6 miles,1.9 miles,7.2 miles,NA,13.4 miles,2.1 miles,1.9 miles,NA,2.8 miles,4.4 miles,1.3 miles
+210,8401 N 84th PlScottsdaleAZ,5.6 miles,5.6 miles,5.1 miles,6.0 miles,7.3 miles,6.8 miles,NA,1.8 miles,NA,1.7 miles,NA,5.2 miles,NA,NA
+211,2805 Dallas PkwyPlanoTX,5.9 miles,NA,5.2 miles,3.0 miles,5.0 miles,10.5 miles,NA,2.9 miles,5.5 miles,6.6 miles,NA,2.1 miles,NA,1.0 mile
+212,410 S Front StPhiladelphiaPA,6.3 miles,0.9 mile,1.5 miles,0.9 mile,3.3 miles,0.8 mile,NA,2.3 miles,4.3 miles,NA,8.6 miles,5.4 miles,NA,2.1 miles
+213,8796 Aspenglow PlSanteeCA,NA,NA,NA,NA,1.5 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,7710 NE Vancouver Mall DrVancouverWA,NA,2.2 miles,NA,12.7 miles,1.0 mile,1.8 miles,NA,2.7 miles,NA,0.5 mile,NA,1.6 miles,1.1 miles,NA
+215,"14951 N, Dallas PkwyDallasTX",1.3 miles,4.9 miles,1.5 miles,4.3 miles,NA,2.0 miles,NA,5.1 miles,NA,0.4 mile,NA,9.5 miles,NA,NA
+216,10 Regent StJersey CityNJ,0.0 miles,0.0 miles,0.0 miles,4.1 miles,2.0 miles,NA,NA,0.3 mile,1.3 miles,0.5 mile,NA,1.9 miles,NA,1.7 miles
+217,13055 Peppergate LnHoustonTX,NA,28.6 miles,NA,17.9 miles,NA,41.7 miles,NA,17.2 miles,NA,NA,NA,19.6 miles,32.7 miles,NA
+218,1500 112th Ave NEBellevueWA,0.8 mile,0.8 mile,3.9 miles,1.4 miles,3.1 miles,NA,NA,1.6 miles,2.6 miles,3.2 miles,4.4 miles,4.4 miles,3.2 miles,1.2 miles
+219,89 CAMINO DEL ORORANCHO SANTA MARGARITACA,2.1 miles,2.7 miles,10.4 miles,10.0 miles,2.2 miles,20.9 miles,NA,6.2 miles,7.8 miles,2.7 miles,NA,4.2 miles,4.2 miles,3.1 miles
+220,560 Galt TerSunnyvaleCA,0.8 mile,97.2 miles,12.6 miles,3.5 miles,2.6 miles,7.5 miles,NA,147 miles,131 miles,75.9 miles,NA,3.5 miles,8.8 miles,NA
+221,17235 N 75th AveGlendaleAZ,4.5 miles,8.6 miles,NA,27.2 miles,9.9 miles,1.8 miles,NA,4.3 miles,0.3 mile,4.1 miles,NA,3.7 miles,NA,2.3 miles
+222,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+223,216 Pointe LnKansas CityMO,55.5 miles,18.6 miles,12.5 miles,13.2 miles,9.4 miles,9.5 miles,NA,5.9 miles,7.3 miles,7.7 miles,NA,9.0 miles,1.2 miles,2.9 miles
+224,8616 Turtle Creek BlvdDallasTX,8.7 miles,9.0 miles,6.7 miles,1.7 miles,5.9 miles,107 miles,NA,6.9 miles,6.9 miles,2.3 miles,NA,13.7 miles,NA,6.3 miles
+227,77772 Flora RdPalm DesertCA,NA,6.0 miles,NA,8.7 miles,NA,8.0 miles,NA,18.0 miles,NA,NA,NA,7.1 miles,NA,NA
+228,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,9.2 miles,1.1 miles
+229,2300 NE 68th StKansas CityMO,NA,11.1 miles,NA,16.6 miles,12.4 miles,12.4 miles,NA,6.3 miles,4.3 miles,2.8 miles,5.5 miles,8.1 miles,4.0 miles,2.3 miles
+230,4145 MILLENNIUM AVECHARLOTTENC,4.2 miles,8.3 miles,5.4 miles,NA,NA,NA,NA,NA,NA,NA,14.0 miles,30.2 miles,NA,NA
+232,3409 Wilson BlvdArlingtonVA,495 ft,495 ft,495 ft,0.7 mile,NA,2.5 miles,NA,495 ft,NA,NA,NA,495 ft,NA,NA
+233,2621 Night Jasmine DrSimi ValleyCA,NA,NA,NA,NA,1.0 mile,NA,NA,NA,2.9 miles,NA,NA,NA,NA,0.8 mile
+234,11500 N Ambassador DrKansas CityMO,NA,18.2 miles,0.7 mile,NA,5.1 miles,20.5 miles,NA,28.3 miles,2.2 miles,5.1 miles,NA,3.6 miles,NA,4.0 miles
+235,80 S Jefferson RdWhippanyNJ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+236,6402 S La Corta DrTempeAZ,5.3 miles,NA,3.6 miles,1.5 miles,NA,3.2 miles,NA,17.7 miles,4.0 miles,2.3 miles,NA,1.0 mile,NA,1.7 miles
+237,13374 Caminito Mar VillaDel MarCA,NA,NA,42.3 miles,5.5 miles,10.8 miles,NA,NA,4.0 miles,7.8 miles,2.2 miles,NA,7.5 miles,NA,5.5 miles
+238,500 Blue Water LnFullertonCA,4.0 miles,NA,NA,NA,NA,15.2 miles,NA,NA,NA,NA,62.5 miles,NA,NA,NA
+239,10 Regent StJersey CityNJ,0.0 miles,0.0 miles,0.0 miles,4.1 miles,2.3 miles,NA,NA,0.3 mile,1.3 miles,0.5 mile,NA,1.9 miles,NA,1.7 miles
+241,23046 Avenida de la CarlotaLaguna HillsCA,NA,NA,8.2 miles,6.9 miles,2.2 miles,13.7 miles,NA,1.7 miles,7.2 miles,1.8 miles,NA,8.3 miles,NA,3.9 miles
+242,410 S Front StPhiladelphiaPA,6.3 miles,0.9 mile,1.5 miles,0.9 mile,3.4 miles,0.8 mile,NA,2.3 miles,4.3 miles,NA,8.6 miles,5.4 miles,NA,2.1 miles
+246,9450 N 94th PlScottsdaleAZ,3.9 miles,0.5 mile,5.3 miles,6.9 miles,9.8 miles,10.2 miles,NA,3.3 miles,9.8 miles,NA,NA,3.3 miles,NA,NA
+247,5600 NW Sunrise Meadow CirLees SummitMO,NA,NA,NA,NA,11.1 miles,NA,NA,NA,NA,NA,NA,2.2 miles,2.2 miles,9.5 miles
+248,11 Cleveland PlSpringfieldNJ,436 miles,448 miles,447 miles,442 miles,446 miles,448 miles,NA,450 miles,450 miles,448 miles,NA,444 miles,456 miles,448 miles
+249,7511 Greenwood Ave NSeattleWA,0.1 mile,2.3 miles,122 miles,NA,NA,2.3 miles,NA,4.2 miles,NA,NA,NA,1.6 miles,NA,0.9 mile
+250,13311 Newland StGarden GroveCA,3.0 miles,3.1 miles,93.9 miles,NA,NA,2.7 miles,NA,NA,NA,NA,NA,5.4 miles,NA,NA
+251,3578 Rambla PlSanta ClaraCA,0.6 mile,4.5 miles,3.1 miles,1.9 miles,2.8 miles,5.2 miles,NA,2.2 miles,5.4 miles,2.3 miles,NA,4.8 miles,NA,NA
+253,6011 E 6th AveSpokane ValleyWA,7.4 miles,4.9 miles,3.0 miles,NA,1.8 miles,2.4 miles,NA,43 ft,9.2 miles,2.0 miles,NA,5.0 miles,8.8 miles,NA
+254,830 Carnegie StHendersonNV,1.6 miles,"1,051 miles",5.8 miles,2.0 miles,NA,1.9 miles,NA,NA,5.7 miles,3.2 miles,NA,5.2 miles,NA,1.7 miles
+255,10201 Mason AveChatsworthCA,0.4 mile,0.2 mile,11.0 miles,NA,NA,NA,NA,NA,NA,NA,NA,20.1 miles,NA,NA
+256,365 Herndon PkwyHerndonVA,NA,0.2 mile,NA,NA,NA,NA,NA,1.1 miles,NA,NA,NA,2.0 miles,NA,NA
+258,4735 Sail Point StLas VegasNV,NA,NA,6.4 miles,5.3 miles,2.8 miles,NA,NA,4.3 miles,5.6 miles,7.2 miles,12.9 miles,5.0 miles,2.1 miles,6.6 miles
+259,511 S Post Oak LnHoustonTX,7.3 miles,34.2 miles,19.1 miles,1.1 miles,7.5 miles,7.8 miles,NA,NA,5.9 miles,1.6 miles,NA,3.6 miles,NA,2.5 miles
+260,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+261,5316 W Highway 290AustinTX,12.0 miles,0.3 mile,15.4 miles,6.7 miles,4.6 miles,0.2 mile,NA,6.8 miles,NA,2.1 miles,NA,8.6 miles,NA,2.4 miles
+262,8290 Arville StLas VegasNV,NA,NA,8.4 miles,3.8 miles,0.7 mile,8.3 miles,NA,1.3 miles,4.6 miles,8.6 miles,NA,7.8 miles,7.0 miles,6.0 miles
+264,1330 Enclave PkwyHoustonTX,10.0 miles,3.2 miles,5.5 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+266,15221 N CLUBGATE DRSCOTTSDALEAZ,NA,12.8 miles,3.9 miles,5.5 miles,2.3 miles,3.6 miles,NA,7.3 miles,5.0 miles,1.7 miles,NA,0.3 mile,0.3 mile,NA
+269,3655 Country Club DrLong BeachCA,435 miles,NA,NA,3.6 miles,3.4 miles,4.5 miles,NA,NA,NA,NA,NA,1.3 miles,NA,1.9 miles
+270,16775 Von Karman AveIrvineCA,NA,NA,NA,8.6 miles,NA,4.1 miles,NA,0.5 mile,NA,6.7 miles,NA,5.5 miles,NA,0.3 mile
+272,108 ARCH STPHILADELPHIAPA,1.0 mile,0.9 mile,1.3 miles,2.4 miles,1.6 miles,0.9 mile,1.1 miles,2.6 miles,2.9 miles,NA,6.8 miles,6.2 miles,1.9 miles,NA
+273,1600 N Saba StChandlerAZ,3.1 miles,4.4 miles,6.9 miles,5.0 miles,NA,1.2 miles,NA,16.6 miles,NA,2.3 miles,NA,3.4 miles,NA,1.0 mile
+274,5009 S CAMINO RUIZCAMARILLOCA,5.1 miles,NA,NA,9.8 miles,13.5 miles,48.9 miles,NA,53.8 miles,33.1 miles,3.3 miles,NA,17.6 miles,NA,0.1 mile
+276,17 W Vernon AvePhoenixAZ,3.0 miles,NA,5.1 miles,NA,NA,3.3 miles,NA,23.3 miles,3.4 miles,2.6 miles,NA,2.5 miles,NA,1.6 miles
+277,2100 124th Ave NEBellevueWA,3 ft,2.7 miles,5.5 miles,1.4 miles,2.1 miles,NA,NA,2.8 miles,1.3 miles,1.2 miles,NA,3.2 miles,2.7 miles,1.2 miles
+278,3865 Vineyards Lake Cir NWKennesawGA,NA,NA,NA,4.6 miles,2.4 miles,1.1 miles,NA,NA,6.1 miles,0.6 mile,NA,2.3 miles,NA,3.1 miles
+280,11125 N AMBASSADOR DR STE 200KANSAS CITYMO,NA,0.0 miles,1.2 miles,23.4 miles,4.3 miles,10.3 miles,NA,5.3 miles,4.8 miles,4.5 miles,NA,3.1 miles,5.4 miles,3.6 miles
+281,5997 N 48th DrGlendaleAZ,4.9 miles,1.6 miles,NA,NA,NA,0.9 mile,NA,17.8 miles,10.0 miles,NA,NA,15.2 miles,NA,6.0 miles
+282,4 Walter E Foran BlvdFlemingtonNJ,1.0 mile,NA,1.1 miles,NA,NA,83.4 miles,NA,374 miles,229 miles,2.2 miles,NA,5.7 miles,NA,0.7 mile
+283,10660 Barkley StOverland ParkKS,0.0 miles,0.0 miles,9.8 miles,2.3 miles,2.2 miles,544 miles,NA,NA,1.5 miles,2.2 miles,NA,1.5 miles,NA,0.8 mile
+284,13921 S Summit StOlatheKS,20.2 miles,25.6 miles,5.2 miles,4.1 miles,3.3 miles,179 miles,NA,683 miles,228 miles,3.4 miles,29.2 miles,8.5 miles,9.1 miles,NA
+285,53 MeadowbrookAliso ViejoCA,13.4 miles,5.5 miles,6.0 miles,2.2 miles,0.4 mile,14.7 miles,NA,2.2 miles,5.3 miles,7.8 miles,NA,6.2 miles,2.7 miles,1.4 miles
+286,12411 OSBORNE STARLETACA,0.5 mile,0.7 mile,5.1 miles,17.0 miles,NA,2.4 miles,NA,NA,NA,1.6 miles,2.7 miles,11.9 miles,NA,NA
+287,5101 N CASA BLANCA DRSCOTTSDALEAZ,0.1 mile,NA,NA,7.7 miles,10.5 miles,8.7 miles,NA,5.1 miles,9.0 miles,11.4 miles,NA,3.2 miles,4.5 miles,3.6 miles
+288,120 Homestead DrColumbusNJ,NA,NA,NA,NA,9.6 miles,16.0 miles,NA,164 miles,127 miles,46.3 miles,66.8 miles,10.7 miles,0.8 mile,NA
+290,2800 Thorndyke Ave WSeattleWA,NA,NA,79 ft,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,1.2 miles
+291,11351 Random Hills RdFairfaxVA,156 miles,13.2 miles,0.7 mile,2.7 miles,0.3 mile,3.5 miles,NA,13.2 miles,0.7 mile,0.9 mile,NA,3.1 miles,4.3 miles,NA
+292,500 Sugar Mill RdAtlantaGA,3 ft,1.3 miles,34.4 miles,NA,NA,19.3 miles,NA,NA,NA,NA,NA,1.8 miles,NA,NA
+293,6655 S Cimarron RdLas VegasNV,11.9 miles,NA,6.2 miles,7.6 miles,1.9 miles,7.2 miles,NA,13.4 miles,2.1 miles,4.9 miles,NA,2.8 miles,4.4 miles,1.3 miles
+294,425 Pontius Ave NSeattleWA,2.4 miles,1.4 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,0.2 mile,NA,0.3 mile
+295,16116 N McDowell Mountain Ranch RdScottsdaleAZ,1.2 miles,1.2 miles,NA,6.3 miles,16.3 miles,17.1 miles,NA,1.4 miles,16.3 miles,5.3 miles,NA,1.5 miles,1.5 miles,1.9 miles
+296,441 S Barrington AveLos AngelesCA,NA,NA,NA,0.5 mile,10.5 miles,18.7 miles,NA,3.6 miles,1.2 miles,0.9 mile,NA,1.8 miles,NA,0.4 mile
+297,16492 ROYAL OAKIRVINECA,29.1 miles,"2,284 miles",72.0 miles,8.0 miles,NA,"2,282 miles",NA,4.2 miles,12.4 miles,NA,NA,30.1 miles,NA,3.9 miles
+298,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+299,16 Scarlet Woods CtThe WoodlandsTX,0.3 mile,3.3 miles,NA,3.4 miles,1.6 miles,2.0 miles,NA,5.3 miles,9.6 miles,3.7 miles,NA,2.3 miles,2.4 miles,3.7 miles
+300,5800 3rd StSan FranciscoCA,2.0 miles,5.2 miles,9.8 miles,7.1 miles,5.4 miles,4.7 miles,NA,2.7 miles,7.5 miles,NA,NA,10.3 miles,NA,1.7 miles
+301,9060 Irvine Center DrIrvineCA,8.1 miles,9.0 miles,9.8 miles,1.1 miles,2.6 miles,7.7 miles,NA,7.1 miles,2.4 miles,2.8 miles,1.7 miles,1.9 miles,3.9 miles,3.1 miles
+304,7801 N 44th DrGlendaleAZ,2.4 miles,2.7 miles,7.2 miles,NA,3.5 miles,4.9 miles,NA,8.4 miles,NA,NA,NA,16.5 miles,NA,2.2 miles
+306,7315 N Oracle RdTucsonAZ,NA,NA,NA,2.7 miles,1.5 miles,4.6 miles,NA,5.7 miles,2.3 miles,1.3 miles,7.3 miles,5.0 miles,5.0 miles,2.6 miles
+308,14031 Bayside DrNorwalkCA,"2,816 miles","2,066 miles",43.8 miles,20.9 miles,9.8 miles,"2,577 miles",NA,110 miles,38.9 miles,NA,NA,95.0 miles,74.6 miles,29.6 miles
+309,5153 Camino RuizCamarilloCA,5.3 miles,14.9 miles,60.9 miles,NA,NA,15.1 miles,NA,172 miles,NA,NA,NA,15.0 miles,NA,NA
+310,705 W Queen Creek RdChandlerAZ,1.4 miles,3.1 miles,11.1 miles,6.6 miles,0.9 mile,5.7 miles,NA,10.6 miles,13.8 miles,0.8 mile,10.0 miles,2.0 miles,NA,0.8 mile
+311,521 N TUSTIN AVESANTA ANACA,NA,NA,NA,5.4 miles,3.5 miles,2.3 miles,NA,NA,1.1 miles,0.3 mile,NA,5.7 miles,5.7 miles,1.2 miles
+312,2754 VIA HACIENDAFULLERTONCA,NA,NA,NA,4.7 miles,13.0 miles,258 miles,NA,40.8 miles,31.0 miles,NA,NA,7.8 miles,NA,2.9 miles
+314,19820 North Creek ParkwayBothellWA,"2,881 miles",1.5 miles,NA,NA,NA,NA,NA,2.9 miles,NA,NA,NA,3.3 miles,NA,NA
+316,15 SPRING HILL LNLAGUNA HILLSCA,53.5 miles,59.8 miles,6.4 miles,3.0 miles,NA,51.0 miles,NA,NA,NA,NA,NA,NA,NA,1.2 miles
+317,5596 NW Sunrise Meadow LnLees SummitMO,NA,NA,NA,NA,11.1 miles,8.8 miles,NA,9.6 miles,NA,9.0 miles,NA,NA,NA,9.5 miles
+318,13802 NW 10th CtVancouverWA,41.8 miles,NA,18.8 miles,26.5 miles,3.5 miles,303 miles,NA,15.1 miles,8.0 miles,NA,NA,10.0 miles,NA,0.8 mile
+319,1600 W Broadway RdTempeAZ,4.8 miles,2.5 miles,6.8 miles,NA,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+320,2633 Richardson DrCharlotteNC,2.9 miles,0.0 miles,7.4 miles,1.4 miles,9.1 miles,8.8 miles,NA,NA,NA,3.3 miles,NA,8.8 miles,NA,7.8 miles
+322,9000 E Pima Center PkwyScottsdaleAZ,6.6 miles,6.6 miles,5.1 miles,NA,NA,9.8 miles,NA,2.3 miles,NA,NA,NA,6.9 miles,NA,NA
+325,14951 N. Dallas ParkwayDallasTX,1.3 miles,1.4 miles,10.5 miles,NA,NA,4.7 miles,NA,8.6 miles,NA,0.4 mile,NA,9.5 miles,NA,1.6 miles
+328,136 Roberts LnAlexandriaVA,2.4 miles,1.5 miles,66.9 miles,0.7 mile,4.0 miles,35.1 miles,NA,9.0 miles,NA,NA,NA,14.9 miles,2.7 miles,1.7 miles
+329,60 SHY BEAR WAY NWISSAQUAHWA,2.6 miles,3.1 miles,8.2 miles,17.9 miles,NA,35.8 miles,NA,1.8 miles,1.9 miles,5.0 miles,NA,22.8 miles,NA,NA
+330,44 Palomino DrManalapanNJ,NA,NA,NA,8.0 miles,1.3 miles,65.8 miles,NA,268 miles,NA,NA,NA,1.4 miles,1.4 miles,5.0 miles
+331,1100 BUTTONWOOD STPHILADELPHIAPA,0.9 mile,2.9 miles,0.2 mile,1.1 miles,1.2 miles,1.0 mile,NA,0.4 mile,1.5 miles,0.9 mile,NA,7.9 miles,NA,NA
+332,1100 BUTTONWOOD STPHILADELPHIAPA,0.9 mile,2.9 miles,0.2 mile,1.1 miles,1.2 miles,1.0 mile,NA,0.4 mile,1.5 miles,0.9 mile,NA,7.9 miles,NA,NA
+333,1225 Martha Custis DrAlexandriaVA,NA,NA,NA,3.5 miles,NA,1.3 miles,NA,6.7 miles,8.3 miles,NA,NA,8.9 miles,NA,NA
+334,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,72 ft,31.4 miles,0.9 mile,16.7 miles,NA,2.2 miles,NA,4.4 miles,NA,2.1 miles,2.1 miles,1.1 miles
+335,975 Easton RdWarringtonPA,36.5 miles,0.4 mile,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.5 miles,8.9 miles,1.7 miles
+336,975 Easton RdWarringtonPA,36.5 miles,0.4 mile,33.8 miles,7.7 miles,0.8 mile,4.4 miles,NA,39.9 miles,36.3 miles,0.8 mile,NA,17.5 miles,8.9 miles,1.7 miles
+337,21 Overture LnAliso ViejoCA,NA,5.4 miles,NA,2.1 miles,0.2 mile,19.0 miles,NA,59.8 miles,5.2 miles,7.7 miles,20.1 miles,6.0 miles,NA,1.4 miles
+338,425 Pontius Ave NSeattleWA,2.4 miles,7.4 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,0.2 mile,NA,0.3 mile
+339,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,8.9 miles,NA,18.5 miles,13.4 miles,NA,NA,3.3 miles,NA,NA
+340,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+341,11500 E COCHISE DRSCOTTSDALEAZ,NA,NA,NA,8.9 miles,NA,18.1 miles,NA,6.5 miles,13.7 miles,6.4 miles,NA,1.6 miles,NA,0.9 mile
+342,2002 Timberloch PlThe WoodlandsTX,0.4 mile,1.2 miles,1.5 miles,1.3 miles,3.2 miles,2.5 miles,NA,3.9 miles,NA,1.2 miles,NA,1.6 miles,1.9 miles,0.6 mile
+343,9455 E RAINTREE DRSCOTTSDALEAZ,NA,NA,NA,5.3 miles,3.6 miles,23.2 miles,NA,6.9 miles,13.5 miles,1.2 miles,NA,2.7 miles,NA,1.3 miles
+344,4114 E Union Hills DrPhoenixAZ,1.3 miles,4.5 miles,NA,6.2 miles,4.1 miles,25.2 miles,NA,12.3 miles,8.5 miles,4.1 miles,NA,0.9 mile,0.9 mile,4.1 miles
+345,28744 TOLLHOUSE CTRANCHO PALOS VERDESCA,2.4 miles,7.6 miles,106 miles,NA,NA,NA,NA,6.8 miles,NA,NA,NA,8.7 miles,3.3 miles,8.1 miles
+310,705 W Queen Creek RdChandlerAZ,1.4 miles,3.1 miles,11.1 miles,6.6 miles,0.9 mile,6.7 miles,NA,10.6 miles,13.8 miles,0.8 mile,10.0 miles,2.0 miles,NA,0.8 mile
+311,521 N TUSTIN AVESANTA ANACA,3.1 miles,3.1 miles,3.1 miles,8.5 miles,0.4 mile,5.6 miles,NA,3.1 miles,2.1 miles,4.6 miles,NA,6.3 miles,6.3 miles,2.0 miles
+312,2754 VIA HACIENDAFULLERTONCA,NA,NA,NA,4.7 miles,13.0 miles,256 miles,NA,40.8 miles,31.0 miles,NA,NA,16.4 miles,NA,2.9 miles
+314,19820 North Creek ParkwayBothellWA,"2,881 miles",1.5 miles,NA,NA,NA,NA,NA,2.9 miles,NA,NA,NA,3.3 miles,NA,NA
+316,15 SPRING HILL LNLAGUNA HILLSCA,53.5 miles,59.8 miles,6.4 miles,3.0 miles,NA,796 miles,NA,NA,NA,NA,NA,NA,NA,1.2 miles
+317,5596 NW Sunrise Meadow LnLees SummitMO,NA,NA,NA,NA,9.2 miles,8.8 miles,NA,9.6 miles,NA,9.0 miles,NA,NA,NA,9.5 miles
+318,13802 NW 10th CtVancouverWA,6.5 miles,NA,18.8 miles,26.5 miles,3.5 miles,64.4 miles,NA,15.1 miles,8.0 miles,NA,NA,10.0 miles,NA,0.8 mile
+319,1600 W Broadway RdTempeAZ,4.8 miles,3.1 miles,6.8 miles,NA,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+320,2633 Richardson DrCharlotteNC,2.9 miles,0.0 miles,7.7 miles,1.4 miles,9.7 miles,4.7 miles,NA,NA,NA,3.3 miles,NA,8.8 miles,NA,8.2 miles
+322,9000 E Pima Center PkwyScottsdaleAZ,6.6 miles,6.6 miles,5.1 miles,NA,NA,9.8 miles,NA,2.3 miles,NA,NA,NA,6.9 miles,NA,NA
+325,14951 N. Dallas ParkwayDallasTX,1.3 miles,1.4 miles,10.5 miles,NA,NA,4.2 miles,NA,8.1 miles,NA,0.4 mile,NA,9.5 miles,NA,1.6 miles
+328,136 Roberts LnAlexandriaVA,2.4 miles,1.5 miles,54.6 miles,0.7 mile,4.0 miles,35.1 miles,NA,9.6 miles,NA,NA,NA,14.9 miles,2.9 miles,1.7 miles
+329,60 SHY BEAR WAY NWISSAQUAHWA,2.6 miles,3.1 miles,8.2 miles,17.9 miles,NA,41.7 miles,NA,1.8 miles,1.9 miles,5.0 miles,NA,22.8 miles,NA,NA
+330,44 Palomino DrManalapanNJ,NA,NA,NA,8.0 miles,1.3 miles,65.4 miles,NA,278 miles,NA,NA,NA,1.4 miles,1.4 miles,5.0 miles
+331,1100 BUTTONWOOD STPHILADELPHIAPA,0.9 mile,3.3 miles,0.2 mile,1.1 miles,1.2 miles,1.0 mile,NA,0.9 mile,1.3 miles,0.7 mile,NA,7.9 miles,NA,NA
+332,1100 BUTTONWOOD STPHILADELPHIAPA,0.9 mile,3.3 miles,0.2 mile,1.1 miles,1.2 miles,1.0 mile,NA,0.9 mile,1.3 miles,0.7 mile,NA,7.9 miles,NA,NA
+333,1225 Martha Custis DrAlexandriaVA,NA,NA,NA,3.8 miles,NA,1.3 miles,NA,7.1 miles,8.9 miles,NA,NA,7.2 miles,NA,NA
+334,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,9.2 miles,1.1 miles
+335,975 Easton RdWarringtonPA,36.5 miles,NA,34.1 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.0 miles,NA,1.7 miles
+336,975 Easton RdWarringtonPA,36.5 miles,NA,34.1 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.5 miles,8.9 miles,1.7 miles
+337,21 Overture LnAliso ViejoCA,NA,5.4 miles,NA,2.1 miles,0.2 mile,53.0 miles,NA,61.4 miles,5.2 miles,7.7 miles,20.1 miles,6.0 miles,NA,1.4 miles
+338,425 Pontius Ave NSeattleWA,2.4 miles,7.4 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,0.2 mile,NA,0.3 mile
+339,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,8.9 miles,NA,18.5 miles,4.6 miles,NA,NA,3.3 miles,NA,NA
+340,15241 Laguna Canyon RdIrvineCA,NA,11.5 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,3.0 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+341,11500 E COCHISE DRSCOTTSDALEAZ,NA,NA,NA,9.0 miles,NA,18.1 miles,NA,6.5 miles,13.7 miles,6.4 miles,NA,1.6 miles,NA,0.9 mile
+342,2002 Timberloch PlThe WoodlandsTX,0.4 mile,1.2 miles,1.5 miles,1.3 miles,3.2 miles,2.5 miles,NA,3.9 miles,NA,1.2 miles,NA,1.6 miles,1.9 miles,0.6 mile
+343,9455 E RAINTREE DRSCOTTSDALEAZ,NA,NA,NA,5.3 miles,3.6 miles,17.8 miles,NA,6.9 miles,13.5 miles,1.2 miles,NA,2.7 miles,NA,1.3 miles
+344,4114 E Union Hills DrPhoenixAZ,1.3 miles,4.5 miles,1.0 mile,6.2 miles,4.1 miles,26.5 miles,NA,12.3 miles,8.5 miles,4.1 miles,NA,0.9 mile,0.9 mile,1.2 miles
+345,28744 TOLLHOUSE CTRANCHO PALOS VERDESCA,8.0 miles,7.6 miles,103 miles,NA,NA,NA,NA,5.6 miles,NA,NA,NA,8.7 miles,3.3 miles,8.1 miles
+347,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,14.9 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+349,2000 Linwood AveFort LeeNJ,0.8 mile,0.9 mile,NA,NA,NA,NA,NA,0.1 mile,NA,1.1 miles,NA,NA,NA,0.8 mile
+350,8668 John Hickman PkwyFriscoTX,463 ft,NA,NA,6.2 miles,NA,NA,NA,NA,2.8 miles,0.9 mile,NA,6.3 miles,NA,1.2 miles
+353,1330 Enclave PkwyHoustonTX,9.8 miles,3.2 miles,5.5 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,8.8 miles,NA
+354,10232 Black Mountain Rd Ofc 5473San DiegoCA,0.2 mile,NA,NA,12.6 miles,3.0 miles,1.0 mile,NA,2.6 miles,NA,5.6 miles,NA,1.7 miles,NA,5.6 miles
+355,10232 Black Mountain Rd Ofc 5473San DiegoCA,0.2 mile,NA,NA,12.6 miles,3.0 miles,1.0 mile,NA,2.6 miles,NA,5.6 miles,NA,1.7 miles,NA,5.6 miles
+356,10232 Black Mountain Rd Ofc 5473San DiegoCA,0.2 mile,NA,NA,12.6 miles,3.0 miles,1.0 mile,NA,2.6 miles,NA,5.6 miles,NA,1.7 miles,NA,5.6 miles
+357,2500 Legacy DrFriscoTX,NA,3.3 miles,NA,NA,NA,5.0 miles,NA,1.9 miles,NA,2.5 miles,NA,4.7 miles,1.0 mile,1.1 miles
+358,6672 Eucalyptus AveChinoCA,28.5 miles,49.4 miles,NA,2.6 miles,4.8 miles,NA,NA,5.7 miles,NA,NA,NA,NA,NA,2.5 miles
+359,348 Quail RidgeIrvineCA,28.0 miles,62.2 miles,71.6 miles,13.5 miles,11.5 miles,12.0 miles,NA,389 miles,NA,NA,NA,53.8 miles,56.8 miles,0.5 mile
+361,1500 112th Ave NEBellevueWA,0.8 mile,0.8 mile,3.9 miles,1.4 miles,3.1 miles,NA,NA,1.6 miles,2.6 miles,3.2 miles,4.4 miles,4.4 miles,3.2 miles,1.2 miles
+362,310 Kensington Palace AveNorth Las VegasNV,6.3 miles,4.4 miles,9.2 miles,NA,NA,8.1 miles,4.1 miles,NA,NA,NA,NA,8.9 miles,NA,NA
+363,2524 S El ParadisoMesaAZ,NA,NA,NA,4.9 miles,NA,3.5 miles,NA,16.9 miles,19.2 miles,NA,NA,NA,NA,NA
+365,906 E Beryl AvePhoenixAZ,16.3 miles,10.1 miles,19.7 miles,6.4 miles,6.4 miles,6.3 miles,NA,4.2 miles,8.2 miles,5.1 miles,4.7 miles,5.3 miles,5.5 miles,NA
+366,24422 Avenida de la CarlotaLaguna HillsCA,NA,NA,NA,4.7 miles,1.8 miles,60.9 miles,NA,NA,6.4 miles,2.6 miles,NA,10.0 miles,NA,1.7 miles
+367,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,9.2 miles,1.1 miles
+368,975 Easton RdWarringtonPA,36.5 miles,NA,34.1 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+370,4144 N Central ExpyDallasTX,5.8 miles,7.1 miles,5.2 miles,4.1 miles,13.3 miles,11.4 miles,NA,2.1 miles,10.5 miles,6.8 miles,NA,6.5 miles,NA,4.3 miles
+371,18 ChardonnayIrvineCA,42.4 miles,25.6 miles,NA,7.8 miles,NA,10.9 miles,NA,53.5 miles,NA,NA,NA,NA,NA,NA
+372,3180 Crow Canyon PlSan RamonCA,1.9 miles,1.7 miles,NA,1.7 miles,NA,27.5 miles,NA,2.9 miles,NA,4.9 miles,NA,2.5 miles,1.5 miles,0.5 mile
+373,975 Easton RdWarringtonPA,36.5 miles,NA,34.1 miles,7.7 miles,0.8 mile,4.4 miles,NA,46.0 miles,36.3 miles,0.8 mile,NA,17.0 miles,8.9 miles,1.7 miles
+374,1500 112th Ave NEBellevueWA,0.8 mile,0.8 mile,3.9 miles,1.4 miles,3.1 miles,NA,NA,1.6 miles,2.6 miles,3.2 miles,4.4 miles,4.4 miles,3.2 miles,1.2 miles
+375,10290 Scripps Poway PkwySan DiegoCA,0.5 mile,0.5 mile,0.4 mile,14.8 miles,4.1 miles,2.4 miles,NA,7.3 miles,5.5 miles,2.3 miles,NA,7.1 miles,7.1 miles,0.4 mile
+376,821 Folsom StSan FranciscoCA,0.2 mile,1.9 miles,1.4 miles,0.1 mile,1.9 miles,2.4 miles,NA,0.8 mile,1.6 miles,NA,NA,5.7 miles,NA,1.4 miles
+378,1616 Fountain View DrHoustonTX,1.3 miles,9.4 miles,1.8 miles,1.2 miles,1.9 miles,1.4 miles,NA,5.6 miles,3.0 miles,1.6 miles,4.1 miles,1.1 miles,1.1 miles,1.1 miles
+379,77 Las Colinas LnSan JoseCA,NA,361 ft,361 ft,NA,6.8 miles,11.7 miles,NA,12.5 miles,16.3 miles,3.1 miles,NA,7.6 miles,4.9 miles,9.3 miles
+381,701 Independence DrHarleysvillePA,41.7 miles,415 miles,31.1 miles,26.8 miles,38.4 miles,33.0 miles,NA,156 miles,460 miles,NA,NA,1.6 miles,1.6 miles,0.9 mile
+382,99 Rausch StSan FranciscoCA,NA,NA,NA,1.8 miles,1.5 miles,NA,NA,NA,2.1 miles,0.9 mile,NA,4.0 miles,1.3 miles,0.8 mile
+383,5425 E La Palma AveAnaheimCA,5.0 miles,NA,0.1 mile,NA,10.7 miles,9.7 miles,NA,2.8 miles,12.6 miles,0.4 mile,NA,3.4 miles,NA,0.5 mile
+384,1036 Diamond Back LnHasletTX,NA,31.4 miles,39.7 miles,26.3 miles,NA,46.9 miles,NA,279 miles,252 miles,287 miles,NA,34.2 miles,NA,NA
+386,9230 Pflumm RdLenexaKS,8.8 miles,1.5 miles,6.8 miles,4.3 miles,1.0 mile,4.0 miles,NA,2.1 miles,1.6 miles,1.3 miles,9.0 miles,5.6 miles,NA,1.0 mile
+387,1000 Station DrDupontWA,NA,NA,NA,12.1 miles,17.6 miles,173 miles,NA,378 miles,317 miles,NA,NA,NA,NA,NA
+388,15850 Monte StSylmarCA,53.8 miles,37.2 miles,10.4 miles,20.1 miles,19.8 miles,21.1 miles,NA,16.5 miles,10.8 miles,NA,8.1 miles,4.7 miles,13.9 miles,45.6 miles
+389,1500 E Ocean BlvdLong BeachCA,16 ft,16 ft,16 ft,3.8 miles,7.1 miles,1.8 miles,NA,NA,1.5 miles,1.3 miles,NA,2.9 miles,NA,1.3 miles
+390,3556 E Russell RdLas VegasNV,0.3 mile,0.3 mile,6.9 miles,5.5 miles,NA,3.8 miles,NA,5.3 miles,NA,0.3 mile,NA,13.9 miles,NA,NA
+391,19550 N Grayhawk DrScottsdaleAZ,6.4 miles,NA,1.8 miles,4.3 miles,10.5 miles,4.5 miles,NA,5.8 miles,11.0 miles,3.9 miles,NA,1.8 miles,NA,1.4 miles
+392,5997 N 48th DrGlendaleAZ,4.9 miles,1.6 miles,NA,NA,0.6 mile,0.9 mile,NA,17.8 miles,10.0 miles,5.3 miles,NA,15.2 miles,NA,6.0 miles
+393,541 W Bakerview RdBellinghamWA,0.8 mile,0.0 miles,20 ft,5.4 miles,1.5 miles,1.5 miles,NA,9.7 miles,1.1 miles,0.8 mile,NA,3.8 miles,NA,0.6 mile
+394,14861 N. Scottsdale Rd.ScottsdaleAZ,7.2 miles,2.7 miles,3.1 miles,2.7 miles,3.3 miles,2.9 miles,15.2 miles,6.5 miles,10.6 miles,0.4 mile,1.7 miles,2.1 miles,2.1 miles,0.3 mile
+395,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,9.2 miles,1.1 miles
+396,1818 Aleppo CtThousand OaksCA,"2,469 miles",69.9 miles,16.3 miles,3.3 miles,2.2 miles,21.0 miles,NA,2.2 miles,3.1 miles,3.3 miles,11.5 miles,4.1 miles,NA,0.7 mile
+397,5800 N Kolb RdTucsonAZ,2.2 miles,NA,27.0 miles,4.8 miles,8.3 miles,8.7 miles,NA,7.6 miles,11.5 miles,9.2 miles,NA,13.4 miles,NA,0.6 mile
+399,35901 MATILIZA CTRANCHO MIRAGECA,NA,NA,NA,6.4 miles,4.4 miles,NA,NA,2.1 miles,NA,"1,985 miles","1,999 miles","2,024 miles",NA,5.4 miles
+400,6655 S Cimarron RdLas VegasNV,11.9 miles,NA,6.2 miles,7.6 miles,1.9 miles,8.1 miles,NA,13.4 miles,2.1 miles,1.9 miles,NA,2.8 miles,4.4 miles,1.3 miles
+401,5702 Kirkpatrick WayIndianapolisIN,7 ft,7 ft,7 ft,7.4 miles,3.3 miles,7.0 miles,NA,NA,6.2 miles,3.0 miles,NA,6.4 miles,NA,NA
+402,PO Box 366NarberthPA,NA,NA,NA,1.7 miles,NA,8.1 miles,NA,138 miles,245 miles,252 miles,344 miles,NA,NA,NA
+403,4801 S Lakeshore DrTempeAZ,3.7 miles,0.5 mile,5.5 miles,4.2 miles,NA,5.8 miles,NA,16.8 miles,NA,2.9 miles,NA,10.2 miles,NA,NA
+404,25942 VIEW POINT DR WCAPISTRANO BEACHCA,30.5 miles,22.3 miles,32.8 miles,21.4 miles,0.8 mile,0.8 mile,NA,45.1 miles,NA,NA,NA,3.8 miles,NA,1.7 miles
+405,1045 N Utah StArlingtonVA,"2,103 miles",NA,"2,084 miles","2,077 miles","2,079 miles","2,076 miles",NA,3.4 miles,1.8 miles,2.2 miles,NA,2.1 miles,NA,0.2 mile
+406,1465 Northside Dr NWAtlantaGA,11.4 miles,2.3 miles,0.6 mile,4.8 miles,4.0 miles,1.1 miles,NA,1.6 miles,NA,1.0 mile,NA,1.7 miles,1.7 miles,1.5 miles
+407,12801 N Central ExpyDallasTX,62 ft,62 ft,5.7 miles,4.6 miles,NA,6.5 miles,NA,10.6 miles,2.7 miles,2.4 miles,NA,11.2 miles,NA,NA
+408,14951 N. Dallas Pkwy.DallasTX,1.3 miles,5.0 miles,2.4 miles,0.3 mile,1.8 miles,2.1 miles,NA,5.1 miles,2.7 miles,1.7 miles,NA,1.6 miles,3.0 miles,1.6 miles
+409,1102 Huntingdon MewsClementonNJ,35.7 miles,35.7 miles,15.3 miles,17.0 miles,NA,20.0 miles,NA,146 miles,510 miles,37.8 miles,NA,4.0 miles,2.7 miles,4.8 miles
+410,2200 Alaskan WaySeattleWA,1.3 miles,1.2 miles,10.1 miles,NA,NA,0.5 mile,NA,1.3 miles,5.7 miles,0.4 mile,NA,2.7 miles,9.5 miles,0.6 mile
+411,3 N Columbus BlvdPhiladelphiaPA,NA,NA,NA,1.8 miles,2.9 miles,1.8 miles,NA,NA,NA,NA,NA,12.0 miles,NA,NA
+412,3367 Cascades BlvdTylerTX,0.2 mile,0.2 mile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+413,9270 E Thompson Peak PkwyScottsdaleAZ,NA,14.2 miles,1.2 miles,3.5 miles,8.5 miles,4.3 miles,NA,10.5 miles,17.1 miles,4.9 miles,NA,0.5 mile,1.2 miles,1.2 miles
+414,4623 Quail Lakes DrStocktonCA,NA,NA,NA,NA,NA,2.4 miles,NA,4.2 miles,NA,NA,NA,3.0 miles,NA,2.1 miles
+415,9060 Irvine Center DrIrvineCA,8.1 miles,9.0 miles,9.8 miles,1.1 miles,2.6 miles,7.7 miles,NA,7.1 miles,2.4 miles,2.8 miles,1.7 miles,1.9 miles,8.2 miles,3.1 miles
+416,349 E Thomas RdPhoenixAZ,3.0 miles,1.6 miles,12.8 miles,4.0 miles,2.0 miles,3.2 miles,NA,12.0 miles,3.3 miles,5.1 miles,12.7 miles,5.4 miles,NA,1.1 miles
+417,9168 Exbury CtCharlotteNC,NA,NA,NA,13.9 miles,11.1 miles,NA,NA,NA,3.0 miles,NA,NA,NA,NA,NA
+418,8902 Spectrum Center BlvdSan DiegoCA,9.7 miles,1.3 miles,1.5 miles,6.7 miles,2.3 miles,4.4 miles,NA,6.0 miles,0.7 mile,0.9 mile,NA,4.9 miles,NA,0.6 mile
+419,2711 Quail Ridge CirFullertonCA,NA,NA,450 miles,61.7 miles,NA,NA,NA,24.6 miles,NA,NA,"1,386 miles",832 miles,NA,1.6 miles
+421,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,14.0 miles,NA,18.5 miles,4.6 miles,NA,NA,3.3 miles,NA,NA
+422,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,14.9 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+423,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,14.9 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+425,230 CommerceIrvineCA,22.0 miles,21.9 miles,64.9 miles,54.2 miles,30.2 miles,58.7 miles,NA,216 miles,15.8 miles,NA,NA,NA,NA,1.3 miles
+426,11000 N 77th PlScottsdaleAZ,2.8 miles,3.0 miles,3.3 miles,6.2 miles,6.9 miles,1.3 miles,NA,3.8 miles,5.6 miles,3.0 miles,NA,3.5 miles,NA,NA
+427,109 State Highway 110 SWhitehouseTX,139 miles,NA,NA,255 miles,1.3 miles,12.8 miles,NA,NA,8.0 miles,NA,NA,NA,NA,NA
+428,2800 Thorndyke Ave WSeattleWA,NA,NA,79 ft,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,1.2 miles
+430,S KENSINGTON AVE AT E ROSE PETAL WAYONTARIOCA,NA,1.3 miles,NA,33.6 miles,33.7 miles,32.3 miles,NA,30.9 miles,21.4 miles,37.3 miles,37.7 miles,36.1 miles,35.8 miles,35.3 miles
+431,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,14.9 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+432,13289 Mountain RdCoronaCA,15.9 miles,15.9 miles,21.2 miles,NA,NA,33.7 miles,NA,NA,NA,NA,NA,21.7 miles,NA,2.7 miles
+433,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,14.9 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+434,2100 124th Ave NEBellevueWA,3 ft,1.8 miles,5.5 miles,1.4 miles,2.1 miles,NA,NA,2.8 miles,1.3 miles,1.2 miles,NA,3.2 miles,2.7 miles,1.2 miles
+435,1818 Aleppo CtThousand OaksCA,"2,469 miles",69.6 miles,16.3 miles,3.3 miles,2.2 miles,21.0 miles,NA,2.2 miles,3.1 miles,3.3 miles,11.5 miles,4.1 miles,NA,0.7 mile
+436,26840 Aliso Viejo PkwyAliso ViejoCA,0.5 mile,0.7 mile,NA,2.2 miles,0.7 mile,NA,NA,1.9 miles,7.3 miles,0.7 mile,NA,2.5 miles,2.5 miles,2.0 miles
+437,114 W Adams StPhoenixAZ,1.4 miles,0.4 mile,NA,7.2 miles,3.5 miles,2.7 miles,NA,24.1 miles,4.2 miles,0.5 mile,NA,2.6 miles,NA,0.2 mile
+438,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,14.0 miles,NA,18.5 miles,4.6 miles,NA,NA,3.3 miles,NA,NA
+439,4044 S 44th WayPhoenixAZ,NA,NA,9.5 miles,NA,NA,9.4 miles,NA,18.5 miles,NA,NA,NA,6.4 miles,NA,NA
+440,ARCHIPELAGO DR AT ROCKSHORE BLFNEWPORT COASTCA,NA,NA,NA,4.8 miles,14.7 miles,NA,NA,5.5 miles,NA,NA,NA,2.0 miles,7.2 miles,4.4 miles
+441,7804 Arbor CirHuntington BeachCA,2.5 miles,4.1 miles,1.9 miles,1.2 miles,0.4 mile,1.3 miles,NA,27.2 miles,52.1 miles,4.2 miles,2.9 miles,3.3 miles,4.2 miles,3.6 miles
+442,16971 Bluewater LnHuntington BeachCA,5.8 miles,5.9 miles,5.5 miles,5.9 miles,6.1 miles,5.5 miles,NA,25.4 miles,50.3 miles,1.5 miles,5.1 miles,2.5 miles,NA,1.0 mile
+443,8180 E Shea BlvdScottsdaleAZ,NA,1.2 miles,3.5 miles,NA,NA,4.0 miles,NA,3.2 miles,NA,NA,NA,0.7 mile,NA,0.9 mile
+444,532 E Maryland AvePhoenixAZ,8.3 miles,NA,16.4 miles,3.3 miles,2.6 miles,3.5 miles,NA,2.8 miles,NA,2.3 miles,NA,1.7 miles,NA,1.8 miles
+445,27220 Turnberry LnValenciaCA,NA,16 ft,32.0 miles,41.7 miles,42.1 miles,NA,NA,NA,NA,NA,NA,4.3 miles,NA,NA
+446,14711 NE 29th Pl #101BellevueWA,0.0 miles,0.0 miles,1.4 miles,2.9 miles,NA,40.1 miles,NA,45.0 miles,NA,1.3 miles,NA,2.4 miles,NA,NA
+447,2211 E Camelback RdPhoenixAZ,0.2 mile,7.3 miles,0.2 mile,0.4 mile,NA,3.8 miles,NA,NA,NA,2.0 miles,NA,1.5 miles,NA,0.9 mile
+450,750 E Northern AvePhoenixAZ,NA,7.5 miles,4.9 miles,4.8 miles,NA,1.9 miles,NA,2.5 miles,6.3 miles,NA,NA,3.4 miles,NA,1.4 miles
+453,3825 E Camelback RdPhoenixAZ,2.2 miles,1.3 miles,0.6 mile,2.6 miles,2.4 miles,5.9 miles,NA,2.5 miles,7.5 miles,1.5 miles,NA,3.1 miles,NA,2.9 miles
+454,1600 W Broadway RdTempeAZ,4.8 miles,2.5 miles,6.8 miles,2.6 miles,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+455,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,"2,431 miles",NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,11.1 miles,8.2 miles
+456,3941 Aladdin DrHuntington BeachCA,4.9 miles,6.1 miles,5.0 miles,5.4 miles,5.9 miles,5.0 miles,NA,NA,NA,1.0 mile,NA,2.0 miles,NA,1.6 miles
+457,656 N SANTIAGO STSANTA ANACA,NA,NA,NA,NA,NA,NA,NA,8.0 miles,NA,NA,NA,NA,NA,2.5 miles
+458,175 15th St NEAtlantaGA,NA,NA,NA,0.5 mile,NA,206 miles,NA,NA,NA,1.8 miles,NA,3.0 miles,NA,NA
+459,"575 S Goddard Blvd, King Of Prussia, PA 19406King Of PrussiaPA",3.9 miles,NA,3.3 miles,3.6 miles,NA,NA,NA,1.7 miles,1.4 miles,4.1 miles,NA,3.9 miles,NA,NA
+460,4715 S Union AveIndependenceMO,NA,5.4 miles,251 miles,9.4 miles,3.8 miles,3.7 miles,NA,NA,NA,5.0 miles,NA,10.9 miles,NA,NA
+461,5050 Avenida EncinasCarlsbadCA,24.9 miles,104 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7 miles,NA,NA
+462,6825 E OSBORN RDSCOTTSDALEAZ,5.0 miles,NA,NA,7.2 miles,2.0 miles,1.0 mile,NA,5.6 miles,0.7 mile,1.1 miles,NA,1.2 miles,1.2 miles,NA
+463,6304 Kennett PlMissionKS,NA,NA,NA,"1,120 miles",NA,266 miles,NA,426 miles,239 miles,NA,NA,9.0 miles,3.3 miles,4.0 miles
+464,503 S 323rd PlFederal WayWA,NA,NA,1.2 miles,NA,NA,NA,NA,NA,NA,NA,NA,2.8 miles,NA,2.9 miles
+465,3100 W Ray RdChandlerAZ,0.0 miles,2.9 miles,NA,0.6 mile,NA,2.3 miles,NA,18.9 miles,NA,NA,11.5 miles,11.8 miles,NA,0.5 mile
+466,1323 TIFFANY CIR NPALM SPRINGSCA,NA,1.4 miles,NA,NA,NA,NA,NA,0.6 mile,NA,NA,NA,1.4 miles,NA,NA
+467,7557 N Dreamy Draw DrPhoenixAZ,NA,NA,NA,3.5 miles,3.2 miles,18.0 miles,NA,NA,NA,1.4 miles,NA,NA,NA,NA
+468,2800 Thorndyke Ave WSeattleWA,NA,NA,79 ft,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,2.1 miles
+469,15010 N 78th WayScottsdaleAZ,"2,063 miles","2,051 miles","2,064 miles",NA,NA,NA,NA,"2,055 miles",NA,NA,NA,"2,053 miles",NA,NA
+470,6021 N Granite Reef RdScottsdaleAZ,NA,5.6 miles,6.1 miles,12.6 miles,NA,6.8 miles,NA,2.2 miles,6.5 miles,2.2 miles,NA,5.5 miles,NA,NA
+472,9125 E PURDUE AVESCOTTSDALEAZ,NA,NA,NA,8.3 miles,NA,4.4 miles,NA,3.2 miles,NA,7.8 miles,NA,4.0 miles,NA,NA
+473,SYCAMORE MEADOW DR AT PEBBLE BEACH DRVALENCIACA,NA,NA,NA,2.2 miles,3.3 miles,4.0 miles,NA,3.4 miles,2.4 miles,3.1 miles,7.3 miles,3.0 miles,0.9 mile,0.9 mile
+474,415 E Taft AveOrangeCA,9.6 miles,1.5 miles,NA,NA,1.9 miles,1.8 miles,NA,35.1 miles,3.9 miles,2.2 miles,NA,9.2 miles,NA,NA
+475,6436 Eucalyptus AveChinoCA,5.1 miles,5.0 miles,NA,2.3 miles,3.9 miles,31.6 miles,NA,5.4 miles,3.2 miles,3.1 miles,4.2 miles,4.5 miles,NA,2.2 miles
+476,4500 Summit StKansas CityMO,14.0 miles,21.3 miles,21.7 miles,1.4 miles,0.5 mile,1.8 miles,NA,9.1 miles,16.4 miles,8.5 miles,18.5 miles,8.6 miles,NA,1.6 miles
+478,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,14.0 miles,NA,18.5 miles,4.6 miles,NA,NA,7.4 miles,NA,NA
+480,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+481,502 Woodbridge Commons WayIselinNJ,116 miles,2.7 miles,28.1 miles,4.1 miles,3.5 miles,71.7 miles,NA,NA,NA,0.2 mile,NA,15.5 miles,NA,1.0 mile
+482,8295 Highway 92WoodstockGA,3.8 miles,4.8 miles,29.3 miles,12.9 miles,4.9 miles,1.8 miles,NA,20 ft,2.3 miles,3.1 miles,NA,3 ft,NA,1.8 miles
+483,9665 Chesapeake DrSan DiegoCA,49 ft,"2,649 miles",NA,7.7 miles,2.5 miles,3.9 miles,6.0 miles,12.0 miles,1.0 mile,1.7 miles,13.8 miles,8.0 miles,NA,3.0 miles
+484,3 N Columbus Blvd Ste 300PhiladelphiaPA,NA,2.8 miles,NA,NA,2.9 miles,1.8 miles,NA,NA,NA,NA,NA,9.4 miles,NA,NA
+485,2701 N Market SqNorthlakeTX,28.0 miles,32.2 miles,25.9 miles,12.1 miles,NA,229 miles,NA,NA,NA,NA,NA,NA,NA,NA
+486,14711 NE 29th PlBellevueWA,7.1 miles,4.4 miles,7.2 miles,NA,NA,NA,NA,10.7 miles,NA,NA,NA,2.4 miles,NA,NA
+487,4113 E Larkspur DrPhoenixAZ,13.8 miles,15.1 miles,21.9 miles,8.8 miles,0.5 mile,5.2 miles,NA,5.7 miles,13.5 miles,1.0 mile,NA,0.9 mile,6.3 miles,0.5 mile
+488,7575 E Indian Bend RdScottsdaleAZ,1.1 miles,NA,2.2 miles,6.8 miles,2.1 miles,4.7 miles,NA,1.5 miles,5.2 miles,4.0 miles,NA,0.5 mile,0.5 mile,0.5 mile
+489,27005 Big Rapids LoopSanta ClaritaCA,2.4 miles,4.2 miles,11.0 miles,2.6 miles,4.8 miles,4.7 miles,NA,4.4 miles,2.0 miles,3.2 miles,NA,4.6 miles,NA,1.2 miles
+490,1825 W Ray RdChandlerAZ,NA,4.5 miles,482 ft,1.8 miles,2.0 miles,0.7 mile,NA,20.2 miles,22.9 miles,3.0 miles,13.1 miles,2.7 miles,NA,1.8 miles
+491,8290 Arville StLas VegasNV,NA,NA,6.9 miles,3.8 miles,0.7 mile,8.3 miles,NA,1.3 miles,4.6 miles,8.4 miles,NA,7.8 miles,7.0 miles,6.0 miles
+492,18031 N 24th PlPhoenixAZ,17.9 miles,13.9 miles,"2,321 miles",12.9 miles,NA,15.0 miles,NA,17.9 miles,19.2 miles,NA,NA,1.8 miles,NA,NA
+493,1 Tennis Club DrRancho MirageCA,3.2 miles,NA,0.2 mile,NA,NA,NA,NA,3.1 miles,NA,NA,NA,0.2 mile,0.2 mile,NA
+494,9060 Irvine Center DrIrvineCA,8.1 miles,9.0 miles,9.8 miles,1.1 miles,2.6 miles,7.7 miles,NA,7.1 miles,2.4 miles,2.8 miles,1.7 miles,1.9 miles,8.2 miles,3.1 miles
+496,3400 Welborn StDallasTX,7 ft,NA,7 ft,1.2 miles,2.1 miles,NA,NA,NA,NA,NA,0.9 mile,7 ft,NA,NA
+497,7855 E 3RD STTUCSONAZ,11.7 miles,NA,NA,NA,NA,2.9 miles,NA,9.0 miles,NA,NA,NA,3.5 miles,NA,NA
+498,425 Pontius Ave NSeattleWA,2.4 miles,7.4 miles,11.6 miles,NA,5.0 miles,9.1 miles,NA,1.1 miles,3.5 miles,1.8 miles,NA,0.2 mile,7.2 miles,0.3 mile
+499,34 BolinasIrvineCA,NA,37.8 miles,75.9 miles,NA,5.3 miles,33.2 miles,NA,215 miles,NA,NA,NA,56.8 miles,NA,1.3 miles
+500,4605 E Elwood StPhoenixAZ,0.5 mile,7.0 miles,10.1 miles,9.8 miles,NA,7.3 miles,NA,18.3 miles,13.3 miles,7.7 miles,NA,4.2 miles,8.8 miles,NA
+501,14950 W Mountain View BlvdSurpriseAZ,2.5 miles,3.4 miles,24.0 miles,35.0 miles,4.1 miles,2.9 miles,NA,38.8 miles,NA,3.9 miles,NA,2.3 miles,NA,0.6 mile
+502,STALLIONIRVINECA,NA,NA,NA,8.8 miles,7.0 miles,6.6 miles,NA,45.5 miles,16.2 miles,NA,NA,NA,NA,NA
+503,8525 NE Hazel Dell AveVancouverWA,NA,NA,NA,NA,0.8 mile,1.6 miles,NA,6.9 miles,7.2 miles,1.4 miles,NA,5.2 miles,7.1 miles,0.2 mile
+504,8525 NE Hazel Dell AveVancouverWA,NA,NA,NA,NA,0.8 mile,1.6 miles,NA,6.9 miles,7.2 miles,1.4 miles,NA,3.9 miles,7.1 miles,0.2 mile
+506,PO Box 320WilliamsburgVA,NA,NA,NA,25.1 miles,NA,124 miles,NA,493 miles,NA,NA,NA,44.1 miles,62.4 miles,47.1 miles
+507,12512 Pinehurst StEl MonteCA,NA,"2,495 miles",NA,NA,1.0 mile,1.0 mile,NA,3.0 miles,NA,NA,NA,54.7 miles,71.3 miles,5.1 miles
+508,459 Sunningdale DrRancho MirageCA,NA,NA,NA,NA,3.3 miles,132 miles,NA,3.6 miles,NA,NA,NA,0.9 mile,0.9 mile,5.0 miles
+509,666 UPAS STSAN DIEGOCA,0.8 mile,NA,NA,NA,4.3 miles,0.4 mile,NA,7.6 miles,NA,NA,NA,3.7 miles,NA,1.0 mile
+510,301 Windjammer CirChula VistaCA,47.6 miles,2.5 miles,19.1 miles,22.8 miles,1.5 miles,2.7 miles,NA,12.5 miles,NA,NA,NA,3.0 miles,2.5 miles,3.2 miles
+511,25521 INDIAN HILL LNLAGUNA HILLSCA,NA,NA,NA,NA,NA,44.5 miles,NA,NA,NA,NA,NA,NA,NA,NA
+512,53 Esfahan DrSan JoseCA,6.2 miles,NA,NA,NA,3.4 miles,3.9 miles,NA,1.4 miles,10.1 miles,10.5 miles,NA,3.8 miles,NA,NA
+513,2507 Harbor BlvdVenturaCA,90.8 miles,4.2 miles,36.4 miles,7.1 miles,5.2 miles,1.9 miles,NA,2.6 miles,NA,2.0 miles,NA,4.3 miles,NA,0.1 mile
+516,3715 TALLYHO DRSACRAMENTOCA,NA,NA,30.7 miles,5.2 miles,4.0 miles,NA,NA,NA,5.4 miles,2.4 miles,NA,2.2 miles,NA,2.2 miles
+517,2544 W MACARTHUR BLVDSANTA ANACA,1.4 miles,0.2 mile,NA,8.0 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+519,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,6.9 miles,1.1 miles
+520,1330 Enclave PkwyHoustonTX,11.2 miles,3.2 miles,5.5 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+521,2800 Thorndyke Ave WSeattleWA,NA,NA,79 ft,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,1.2 miles
+523,2031 Sierra RdConcordCA,NA,NA,NA,NA,NA,5.2 miles,NA,NA,NA,4.7 miles,24.6 miles,67.2 miles,NA,4.1 miles
+524,15502 Williams StTustinCA,396 miles,418 miles,85.2 miles,4.0 miles,2.2 miles,85.8 miles,NA,384 miles,NA,NA,NA,28.2 miles,NA,2.0 miles
+525,8250 E Arabian TrlScottsdaleAZ,NA,NA,4.2 miles,5.0 miles,5.1 miles,8.7 miles,NA,2.4 miles,14.2 miles,NA,NA,2.6 miles,NA,0.3 mile
+526,2828 N Camino LagosGrand PrairieTX,4.1 miles,12.9 miles,29.1 miles,18.2 miles,NA,9.2 miles,NA,NA,8.7 miles,12.6 miles,NA,11.3 miles,NA,5.9 miles
+527,1001 Mohr LnConcordCA,66.8 miles,NA,8.5 miles,3.7 miles,1.3 miles,383 miles,NA,29.9 miles,27.1 miles,1.7 miles,NA,9.0 miles,NA,5.0 miles
+528,12273 Westcliff DrStantonCA,NA,997 miles,NA,NA,2.6 miles,280 miles,NA,NA,3.1 miles,15.8 miles,NA,NA,NA,NA
+529,1040 NE Hostmark StPoulsboWA,NA,NA,NA,NA,NA,63.3 miles,NA,NA,NA,NA,NA,11.8 miles,NA,0.1 mile
+530,5401 E VAN BUREN STPHOENIXAZ,4.0 miles,8.3 miles,19.9 miles,23.8 miles,3.1 miles,2.2 miles,2.8 miles,1.3 miles,7.3 miles,4.3 miles,NA,1.6 miles,NA,3.3 miles
+531,21907 Claiborne PkwyBroadlandsVA,10 ft,10 ft,10 ft,NA,NA,NA,NA,NA,NA,NA,NA,10 ft,NA,NA
+533,1340 N Recker RdMesaAZ,NA,NA,7.6 miles,NA,3.8 miles,5.7 miles,NA,2.2 miles,10.2 miles,0.5 mile,NA,2.9 miles,NA,NA
+534,3020 Hamaker CtFairfaxVA,16.4 miles,4.0 miles,23.5 miles,10.6 miles,0.8 mile,2.6 miles,NA,NA,6.1 miles,3.7 miles,NA,4.9 miles,7.3 miles,1.0 mile
+535,26840 Aliso Viejo PkwyAliso ViejoCA,0.5 mile,0.7 mile,NA,2.2 miles,0.7 mile,NA,NA,1.9 miles,7.3 miles,0.7 mile,NA,2.5 miles,2.5 miles,2.0 miles
+537,5122 E Shea BlvdScottsdaleAZ,0.4 mile,0.4 mile,7.0 miles,NA,3.5 miles,2.6 miles,NA,6.1 miles,NA,NA,NA,1.0 mile,NA,2.5 miles
+539,5970 FAIRVIEW RDCHARLOTTENC,NA,NA,NA,0.8 mile,NA,2.9 miles,NA,1.8 miles,NA,NA,NA,3.6 miles,4.2 miles,NA
+540,108 ARCH STPHILADELPHIAPA,1.0 mile,0.9 mile,1.3 miles,2.4 miles,1.6 miles,0.9 mile,1.1 miles,4.4 miles,2.9 miles,NA,6.6 miles,6.2 miles,1.9 miles,NA
+541,"9001 Airport Freeway, Suite 450North Richland HillsTX",3.9 miles,NA,1.6 miles,NA,1.9 miles,2.3 miles,NA,9.6 miles,NA,NA,NA,4.2 miles,NA,2.3 miles
+542,9230 Pflumm RdLenexaKS,8.8 miles,1.5 miles,5.8 miles,4.3 miles,1.0 mile,4.0 miles,NA,2.1 miles,1.6 miles,1.3 miles,9.0 miles,5.6 miles,NA,1.0 mile
+543,5300 South Adams Ave Parkway #8OgdenUT,506 miles,1.8 miles,39.0 miles,33.4 miles,1.9 miles,1.8 miles,NA,9.4 miles,3.3 miles,2.0 miles,5.3 miles,5.9 miles,1.4 miles,3.6 miles
+544,4625 W Thomas RdPhoenixAZ,NA,449 ft,13.0 miles,12.0 miles,1.7 miles,1.8 miles,NA,13.3 miles,4.6 miles,0.4 mile,NA,2.7 miles,2.7 miles,2.9 miles
+546,4777 S Fulton Ranch BlvdChandlerAZ,0.5 mile,0.5 mile,0.5 mile,8.5 miles,1.6 miles,6.7 miles,NA,0.5 mile,NA,2.4 miles,NA,2.0 miles,NA,0.5 mile
+547,2401 Somersworth DrHendersonNV,0.0 miles,NA,15.9 miles,6.9 miles,4.7 miles,4.7 miles,NA,3.4 miles,NA,NA,NA,4.0 miles,1.7 miles,3.0 miles
+548,230 CommerceIrvineCA,22.0 miles,32.8 miles,64.9 miles,53.0 miles,33.9 miles,38.3 miles,NA,NA,42.3 miles,NA,NA,NA,NA,8.8 miles
+549,4455 E Paradise Village Pkwy SPhoenixAZ,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2 mile,NA,0.2 mile,0.2 mile,0.6 mile
+551,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+552,2 Commerce DrCranburyNJ,3.7 miles,NA,NA,43.0 miles,33.9 miles,59.2 miles,NA,NA,NA,NA,NA,15.3 miles,NA,6.0 miles
+553,3454 Castle Glen DrSan DiegoCA,NA,NA,NA,6.4 miles,1.6 miles,5.3 miles,NA,NA,4.0 miles,3.5 miles,NA,NA,NA,NA
+554,7401 W Arrowhead Clubhouse DrGlendaleAZ,NA,NA,NA,NA,NA,19.3 miles,NA,3.3 miles,2.0 miles,2.9 miles,NA,1.8 miles,NA,0.7 mile
+555,2917 N 19th AvePhoenixAZ,2.6 miles,2.8 miles,2.0 miles,5.3 miles,NA,2.3 miles,NA,12.7 miles,1.1 miles,2.3 miles,NA,0.8 mile,NA,2.8 miles
+556,15315 Magnolia BlvdSherman OaksCA,0.0 miles,NA,7 ft,1.0 mile,NA,4.2 miles,NA,29.3 miles,NA,NA,NA,2.7 miles,NA,NA
+557,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,14.0 miles,NA,18.5 miles,4.6 miles,NA,NA,7.4 miles,NA,NA
+558,3286 Brentwood StLas VegasNV,10 ft,10 ft,5.3 miles,8.7 miles,3.5 miles,5.4 miles,3.1 miles,5.3 miles,13.8 miles,6.5 miles,NA,16.3 miles,NA,4.0 miles
+559,2521 Garnet Peak RdChula VistaCA,3.2 miles,10.3 miles,20.0 miles,NA,3.8 miles,8.7 miles,NA,3.0 miles,8.2 miles,NA,NA,0.6 mile,0.6 mile,1.7 miles
+560,1415 N Camino EmilianoTucsonAZ,NA,NA,21.2 miles,9.9 miles,NA,4.9 miles,NA,5.3 miles,NA,NA,NA,35.5 miles,NA,6.8 miles
+562,1693 W 9th StUplandCA,0.0 miles,0.0 miles,1.3 miles,2.6 miles,1.1 miles,1.2 miles,NA,6.0 miles,1.1 miles,NA,NA,4.5 miles,NA,NA
+564,4200 W Pyracantha DrTucsonAZ,2.4 miles,16.5 miles,8.4 miles,5.5 miles,NA,8.5 miles,NA,9.8 miles,3.3 miles,1.4 miles,4.8 miles,3.5 miles,NA,1.2 miles
+565,1210 S Bascom AveSan JoseCA,2.7 miles,1.9 miles,6.1 miles,0.9 mile,1.5 miles,1.3 miles,NA,1.7 miles,3.3 miles,1.8 miles,12.4 miles,8.5 miles,9.9 miles,0.9 mile
+566,28 Baycrest CtNewport BeachCA,NA,NA,9.8 miles,3.4 miles,4.6 miles,10.7 miles,NA,NA,NA,5.6 miles,NA,1.8 miles,NA,0.5 mile
+567,6107 SW Murray BlvdBeavertonOR,23 ft,23 ft,23 ft,4.0 miles,NA,1.8 miles,NA,2.2 miles,3.4 miles,2.3 miles,NA,23 ft,NA,0.2 mile
+568,1465 Northside Dr NWAtlantaGA,11.4 miles,2.3 miles,0.6 mile,4.8 miles,4.0 miles,1.1 miles,NA,1.6 miles,NA,1.0 mile,NA,1.7 miles,1.7 miles,1.5 miles
+569,4111 W Sunset BlvdLos AngelesCA,1.7 miles,NA,NA,2.3 miles,NA,2.0 miles,NA,2.3 miles,3.6 miles,NA,NA,NA,NA,NA
+570,2850 E Camelback RdPhoenixAZ,15.4 miles,NA,NA,1.1 miles,4.6 miles,4.4 miles,NA,10.0 miles,5.9 miles,2.6 miles,NA,1.6 miles,NA,0.5 mile
+573,5806 Mission Center RdSan DiegoCA,NA,NA,NA,2.9 miles,4.4 miles,6.0 miles,NA,7.1 miles,5.7 miles,1.3 miles,16.0 miles,7.1 miles,NA,0.3 mile
+574,3245 Peachtree PkwySuwaneeGA,10.0 miles,8.4 miles,9.7 miles,NA,1.3 miles,13.1 miles,NA,NA,NA,NA,NA,1.7 miles,NA,1.3 miles
+575,23046 Avenida de la CarlotaLaguna HillsCA,NA,NA,8.2 miles,6.9 miles,2.2 miles,13.7 miles,NA,1.7 miles,7.2 miles,1.8 miles,NA,8.3 miles,NA,3.9 miles
+577,300 Ivy StSan FranciscoCA,0.3 mile,1.1 miles,46.9 miles,2.4 miles,1.2 miles,1.2 miles,NA,3.4 miles,3.0 miles,0.1 mile,NA,3.2 miles,1.8 miles,NA
+578,113 Roseburg WayFairfieldCA,NA,NA,NA,NA,1.7 miles,NA,NA,NA,2.2 miles,NA,421 miles,413 miles,417 miles,413 miles
+579,10612 DABNEY DRSAN DIEGOCA,"2,567 miles",NA,NA,14.7 miles,16.3 miles,9.8 miles,NA,NA,NA,NA,NA,NA,NA,1.5 miles
+580,5225 W Reno AveLas VegasNV,1.9 miles,NA,NA,4.3 miles,4.8 miles,NA,NA,3.5 miles,4.5 miles,2.2 miles,2.3 miles,3.1 miles,3.1 miles,4.5 miles
+581,16775 Von Karman AveIrvineCA,NA,NA,NA,8.6 miles,NA,4.1 miles,NA,0.5 mile,NA,6.7 miles,NA,5.5 miles,NA,0.3 mile
+582,PO Box 10821ChantillyVA,NA,NA,NA,5.4 miles,NA,132 miles,NA,12.3 miles,NA,NA,7.5 miles,19.0 miles,14.9 miles,11.3 miles
+584,9000 E Pima Center PkwyScottsdaleAZ,6.6 miles,6.6 miles,5.1 miles,NA,NA,9.8 miles,NA,2.3 miles,NA,NA,NA,6.9 miles,NA,NA
+585,259 N Pecos RdHendersonNV,NA,NA,7.7 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+586,1330 Enclave PkwyHoustonTX,10.0 miles,3.2 miles,6.2 miles,4.5 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+589,17235 N 75th AveGlendaleAZ,4.2 miles,8.6 miles,NA,27.2 miles,9.9 miles,1.8 miles,NA,4.3 miles,0.3 mile,4.1 miles,NA,3.7 miles,NA,2.3 miles
+590,14711 NE 29th PlBellevueWA,7.1 miles,4.4 miles,4.9 miles,NA,NA,NA,NA,10.7 miles,NA,NA,NA,2.4 miles,NA,NA
+592,109 Bolero DrDowningtownPA,297 miles,146 miles,137 miles,40.7 miles,36.0 miles,33.5 miles,NA,121 miles,15.3 miles,NA,NA,1.0 mile,NA,NA
+593,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+594,3000 E 6th StTucsonAZ,3.7 miles,1.4 miles,4.6 miles,1.0 mile,4.7 miles,5.0 miles,NA,NA,NA,1.8 miles,NA,9.3 miles,NA,2.1 miles
+595,450 N Dobson RdMesaAZ,3.8 miles,0.0 miles,0.0 miles,NA,1.7 miles,0.6 mile,NA,13.4 miles,9.0 miles,0.9 mile,NA,3.5 miles,3.5 miles,2.1 miles
+596,3108 Midway RdPlanoTX,13.2 miles,11.5 miles,9.7 miles,NA,NA,8.7 miles,NA,NA,8.8 miles,NA,NA,9.4 miles,NA,NA
+597,8256 E Arabian TrlScottsdaleAZ,NA,NA,NA,8.9 miles,NA,0.5 mile,NA,2.5 miles,14.6 miles,NA,NA,3.3 miles,NA,0.3 mile
+598,2010 156th Ave NEBellevueWA,NA,NA,5.0 miles,3.2 miles,NA,NA,NA,NA,NA,2.0 miles,NA,2.9 miles,NA,NA
+599,1525 E 17th StSanta AnaCA,1.8 miles,2.5 miles,NA,NA,NA,1.7 miles,1.6 miles,NA,NA,1.5 miles,NA,3.1 miles,NA,NA
+600,425 Pontius Ave NSeattleWA,2.4 miles,7.4 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,0.2 mile,7.2 miles,0.3 mile
+601,425 Pontius Ave N #203SeattleWA,2.4 miles,2.0 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,3.1 miles,7.2 miles,0.3 mile
+602,4645 E Cotton Gin LoopPhoenixAZ,0.0 miles,0.0 miles,9.5 miles,9.9 miles,0.3 mile,8.9 miles,NA,18.5 miles,4.6 miles,NA,NA,3.3 miles,NA,NA
+603,2040 S Alma School RdChandlerAZ,NA,2.5 miles,6.4 miles,5.4 miles,0.7 mile,3.6 miles,NA,5.4 miles,NA,453 ft,10.3 miles,2.6 miles,NA,0.1 mile
+605,329 E Colorado BlvdDallasTX,0.0 miles,NA,8.4 miles,4.1 miles,2.8 miles,1.6 miles,NA,NA,5.7 miles,1.4 miles,NA,6.3 miles,NA,7.9 miles
+606,45050 Golf Center PkwyIndioCA,279 ft,279 ft,279 ft,NA,2.3 miles,111 miles,NA,1.8 miles,NA,1.6 miles,NA,1.7 miles,1.7 miles,0.8 mile
+607,10660 Barkley  suite 200Overland ParkKS,0.0 miles,0.0 miles,9.8 miles,2.3 miles,6.7 miles,185 miles,NA,NA,NA,4.3 miles,NA,7.2 miles,NA,4.6 miles
+608,3050 Rancho del CanonCarlsbadCA,NA,NA,NA,14.7 miles,8.2 miles,NA,NA,15.1 miles,NA,NA,NA,NA,4.0 miles,4.1 miles
+609,11680 E Sahuaro DrScottsdaleAZ,NA,NA,5.7 miles,8.8 miles,NA,5.7 miles,NA,6.6 miles,13.8 miles,0.7 mile,NA,1.1 miles,NA,NA
+611,230 CommerceIrvineCA,22.0 miles,32.8 miles,64.9 miles,52.0 miles,33.9 miles,38.5 miles,NA,NA,15.8 miles,NA,NA,NA,NA,8.8 miles
+612,2635 Camino Del Rio SSan DiegoCA,3.5 miles,17.6 miles,6.6 miles,3.4 miles,4.8 miles,4.3 miles,NA,6.2 miles,7.4 miles,2.7 miles,NA,3.3 miles,NA,0.4 mile
+613,5000 JUNEBERRY CTSAN DIEGOCA,NA,NA,NA,6.9 miles,5.3 miles,NA,NA,NA,NA,NA,NA,NA,NA,3.3 miles
+614,5200 DUNSMUIR RDBAKERSFIELDCA,490 miles,NA,28.9 miles,NA,3.1 miles,130 miles,NA,177 miles,32.2 miles,8.9 miles,3.7 miles,16.5 miles,2.1 miles,2.6 miles
+616,16001 S Vermont AveGardenaCA,1.2 miles,1.0 mile,NA,7.9 miles,1.4 miles,1.4 miles,NA,NA,NA,2.3 miles,NA,19.5 miles,NA,1.0 mile
+617,2510 Brackley Pl NWConcordNC,5.3 miles,6.8 miles,73.4 miles,NA,3.1 miles,12.2 miles,NA,3.2 miles,9.0 miles,1.4 miles,NA,4.1 miles,4.5 miles,3.9 miles
+618,30 MONARCH BEACH RESORT SDANA POINTCA,492 ft,492 ft,492 ft,6.1 miles,3.1 miles,3.3 miles,NA,1.7 miles,NA,2.1 miles,5.4 miles,0.3 mile,0.3 mile,1.5 miles
+620,48664 Moon Terrace LnPalm DesertCA,3.1 miles,7.5 miles,NA,3.1 miles,3.7 miles,NA,NA,13.9 miles,NA,NA,NA,1.5 miles,2.3 miles,2.9 miles
+621,LAFAYETTE WAY AT LEELAND WAYTUSTINCA,14.4 miles,3.2 miles,83.9 miles,17.2 miles,8.3 miles,4.7 miles,0.5 mile,4.3 miles,4.5 miles,2.1 miles,9.1 miles,8.2 miles,2.6 miles,4.5 miles
+622,"1040 NE Hostmark Street, Suite 210PoulsboWA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+624,34197 CALLE MORACATHEDRAL CITYCA,4.3 miles,NA,144 miles,127 miles,162 miles,1.6 miles,NA,124 miles,115 miles,1.4 miles,NA,0.5 mile,NA,2.2 miles
+625,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+626,2146 Encinitas BlvdEncinitasCA,1.9 miles,NA,NA,NA,NA,NA,NA,6.2 miles,NA,NA,NA,4.2 miles,NA,NA
+627,1614 N Jones BlvdLas VegasNV,12.0 miles,6.2 miles,9.3 miles,7.0 miles,1.9 miles,NA,5.6 miles,17.3 miles,7.9 miles,1.5 miles,NA,2.6 miles,NA,NA
+628,48500 WASHINGTON STLA QUINTACA,5.0 miles,92.6 miles,142 miles,139 miles,2.2 miles,6.1 miles,NA,146 miles,168 miles,1.2 miles,NA,1.8 miles,1.6 miles,1.2 miles
+629,6714 Wildwood CirPalm SpringsCA,5.5 miles,5.3 miles,77.2 miles,7.0 miles,7.2 miles,7.2 miles,NA,6.1 miles,NA,7.6 miles,NA,1.2 miles,NA,1.9 miles
+630,16441 N 91st StScottsdaleAZ,1.6 miles,6.2 miles,2.4 miles,3.7 miles,7.5 miles,14.5 miles,NA,8.3 miles,9.4 miles,5.4 miles,4.5 miles,8.4 miles,NA,2.0 miles
+632,280 S Avenida CaballerosPalm SpringsCA,NA,NA,NA,11.7 miles,NA,1.1 miles,NA,1.0 mile,NA,NA,NA,1.1 miles,NA,NA
+633,1207 46th StNorth BergenNJ,2.2 miles,NA,2.8 miles,2.2 miles,2.3 miles,0.3 mile,NA,13.3 miles,23.5 miles,2.7 miles,NA,10.5 miles,NA,1.2 miles
+634,26840 Aliso Viejo PkwyAliso ViejoCA,0.5 mile,0.7 mile,NA,2.2 miles,0.7 mile,NA,NA,1.9 miles,7.3 miles,0.7 mile,NA,2.5 miles,2.5 miles,2.0 miles
+635,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+636,515 W Gardena BlvdGardenaCA,1.5 miles,1.5 miles,0.0 miles,NA,1.6 miles,2.1 miles,NA,NA,9.8 miles,NA,NA,2.0 miles,NA,1.8 miles
+637,2716 Hilltop DrNewport BeachCA,NA,NA,NA,2.5 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2 mile
+638,8290 Arville StLas VegasNV,NA,NA,8.4 miles,3.8 miles,0.7 mile,8.3 miles,NA,1.3 miles,4.6 miles,8.6 miles,NA,7.8 miles,7.0 miles,6.0 miles
+640,PO Box 1098WestminsterCA,NA,NA,NA,14.4 miles,NA,33.7 miles,NA,391 miles,NA,NA,17.3 miles,78.1 miles,70.4 miles,29.9 miles
+641,150 The Promenade NLong BeachCA,0.4 mile,0.4 mile,15.6 miles,6.7 miles,6.7 miles,8.2 miles,NA,5.1 miles,0.6 mile,3.1 miles,NA,3.6 miles,4.9 miles,0.4 mile
+642,15315 Magnolia BlvdSherman OaksCA,0.0 miles,NA,7 ft,1.0 mile,NA,4.2 miles,NA,29.7 miles,NA,NA,NA,2.7 miles,NA,NA
+643,20121 N 76th StScottsdaleAZ,NA,2.1 miles,5.5 miles,2.0 miles,7.0 miles,6.7 miles,NA,10.9 miles,12.4 miles,10.9 miles,NA,1.8 miles,1.8 miles,2.1 miles
+644,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.4 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,9.2 miles,1.1 miles
+645,1 E Lexington Ave # EPhoenixAZ,16 ft,NA,16 ft,NA,NA,1.2 miles,NA,NA,NA,NA,NA,16 ft,NA,NA
+647,"425 Pontius Ave N, Suite 203SeattleWA",2.4 miles,2.0 miles,NA,NA,NA,9.1 miles,NA,1.0 mile,NA,NA,NA,3.1 miles,NA,0.3 mile
+648,2330 Vanguard WayCosta MesaCA,2.6 miles,0.4 mile,74.2 miles,6.9 miles,0.5 mile,1.8 miles,NA,0.8 mile,19.8 miles,1.5 miles,NA,2.4 miles,3.4 miles,2.4 miles
+649,2925 W FLEETWOOD LNPHOENIXAZ,10.6 miles,8.9 miles,15.4 miles,11.2 miles,10.5 miles,10.2 miles,NA,15.1 miles,4.9 miles,5.8 miles,NA,3.6 miles,10.4 miles,1.4 miles
+650,10444 Canoga AveChatsworthCA,NA,NA,9.9 miles,2.6 miles,0.3 mile,3.3 miles,NA,1.7 miles,5.7 miles,1.5 miles,NA,2.0 miles,NA,1.3 miles
+651,8489 Westmore RdSan DiegoCA,NA,NA,3.7 miles,9.5 miles,0.7 mile,2.9 miles,NA,17.1 miles,2.6 miles,1.4 miles,NA,4.1 miles,NA,0.5 mile
+652,1600 W Broadway RdTempeAZ,4.8 miles,2.5 miles,6.8 miles,NA,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+653,7951 Collin McKinney PkwyMcKinneyTX,12.8 miles,11.7 miles,NA,4.7 miles,NA,10.3 miles,NA,3.6 miles,9.3 miles,4.9 miles,NA,0.2 mile,NA,NA
+654,818 S WESTWOODMESAAZ,NA,2.2 miles,21.0 miles,8.3 miles,NA,6.6 miles,NA,15.1 miles,NA,NA,NA,0.8 mile,NA,1.9 miles
+655,375 N Stephanie StHendersonNV,1.6 miles,NA,NA,4.3 miles,0.7 mile,1.5 miles,NA,2.3 miles,0.4 mile,2.5 miles,NA,4.5 miles,3.3 miles,2.5 miles
+657,300 Ivy St Apt 600San FranciscoCA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+658,1522 Granite Hills DrEl CajonCA,2.2 miles,2.9 miles,2.2 miles,NA,NA,NA,NA,NA,NA,3.1 miles,4.7 miles,108 miles,10.6 miles,1.0 mile
+659,500 Telegraph Canyon RdChula VistaCA,0.3 mile,3.5 miles,NA,NA,1.4 miles,3.7 miles,NA,8.7 miles,1.5 miles,0.2 mile,NA,4.0 miles,1.6 miles,0.2 mile
+662,120 Albert StLa PuenteCA,1.3 miles,23.2 miles,0.7 mile,NA,2.0 miles,2.9 miles,NA,NA,NA,NA,NA,2.5 miles,NA,NA
+663,42635 Melanie PlPalm DesertCA,7 ft,7 ft,7 ft,3.5 miles,3.8 miles,NA,NA,14.4 miles,NA,NA,7 ft,7.2 miles,2.4 miles,NA
+664,452 N BloomberryOrangeCA,21.7 miles,48.3 miles,72.1 miles,43.3 miles,NA,34.3 miles,NA,380 miles,NA,NA,NA,79.8 miles,78.3 miles,NA
+665,2702 E MainPuyallupWA,NA,NA,NA,NA,NA,5.2 miles,NA,52.1 miles,30.9 miles,NA,NA,13.6 miles,NA,0.7 mile
+666,969 S Mintwood LnAnaheimCA,11.0 miles,11.4 miles,NA,NA,NA,38.7 miles,NA,NA,NA,NA,NA,4.1 miles,NA,NA
+667,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+670,4925 E Desert Cove AveScottsdaleAZ,NA,NA,NA,NA,NA,9.9 miles,NA,6.4 miles,NA,NA,NA,1.3 miles,NA,NA
+671,1330 Enclave PkwyHoustonTX,10.0 miles,11.6 miles,5.5 miles,16.6 miles,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+672,290 NovelIrvineCA,1.5 miles,6.1 miles,NA,6.0 miles,10.6 miles,4.5 miles,NA,0.9 mile,13.4 miles,NA,9.6 miles,3.7 miles,3.7 miles,6.3 miles
+673,42 S Hamilton PlGilbertAZ,NA,38.6 miles,7.6 miles,NA,2.7 miles,5.4 miles,NA,20.2 miles,23.3 miles,5.8 miles,NA,14.4 miles,NA,8.6 miles
+674,24 RosemaryIrvineCA,8.0 miles,24.9 miles,82.0 miles,NA,6.6 miles,8.8 miles,NA,252 miles,NA,NA,369 miles,NA,NA,NA
+675,1251 S Meadow LnColtonCA,21.6 miles,56.7 miles,85.4 miles,61.2 miles,NA,29.8 miles,NA,46.5 miles,55.9 miles,86.2 miles,NA,33.6 miles,NA,NA
+676,15241 Laguna Canyon RdIrvineCA,NA,10.8 miles,12.6 miles,2.7 miles,6.8 miles,19.0 miles,NA,2.8 miles,NA,2.1 miles,NA,1.2 miles,4.2 miles,2.3 miles
+678,9807 Fair Oaks BlvdFair OaksCA,157 ft,157 ft,157 ft,NA,4.4 miles,2.6 miles,NA,4.5 miles,2.6 miles,2.2 miles,NA,3.5 miles,NA,4.6 miles
+679,7650 E Mabel StTucsonAZ,NA,NA,NA,5.9 miles,0.4 mile,3.1 miles,NA,9.8 miles,5.6 miles,6.7 miles,NA,4.2 miles,3.2 miles,NA
+680,1401 Bel Air DrConcordCA,NA,2.9 miles,73.0 miles,5.2 miles,9.7 miles,82.8 miles,NA,763 miles,371 miles,361 miles,368 miles,366 miles,365 miles,361 miles
+681,1600 W Broadway RdTempeAZ,4.8 miles,2.5 miles,6.8 miles,NA,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+684,2402 E Esplanade LnPhoenixAZ,0.3 mile,135 ft,0.3 mile,NA,NA,NA,NA,NA,NA,NA,NA,135 ft,NA,NA
+685,73320 El PaseoPalm DesertCA,10 ft,5.6 miles,0.4 mile,1.1 miles,0.5 mile,0.3 mile,NA,11.9 miles,NA,NA,NA,3.7 miles,NA,0.4 mile
+686,9665 Chesapeake DrSan DiegoCA,49 ft,"2,649 miles",NA,7.7 miles,2.5 miles,3.9 miles,NA,12.0 miles,1.0 mile,2.8 miles,13.8 miles,8.0 miles,NA,3.0 miles
+687,9065 E Gary RdScottsdaleAZ,NA,14.1 miles,NA,8.1 miles,8.8 miles,NA,NA,NA,NA,NA,NA,NA,NA,1.3 miles
+688,5315 W HEARN RDGLENDALEAZ,NA,NA,17.3 miles,NA,2.4 miles,2.9 miles,NA,1.2 miles,NA,1.0 mile,NA,8.3 miles,NA,1.0 mile
+689,1687 Melrose AveChula VistaCA,0.1 mile,0.1 mile,"2,045 miles",NA,NA,2.5 miles,NA,NA,NA,NA,NA,6.6 miles,NA,NA
+691,2323 Easthills DrBakersfieldCA,NA,NA,NA,NA,4.0 miles,2.4 miles,NA,5.5 miles,0.4 mile,0.6 mile,NA,1.2 miles,NA,0.6 mile
+692,26992 MILL POND RDDANA POINTCA,44.1 miles,74.7 miles,NA,NA,NA,2.3 miles,NA,402 miles,NA,NA,NA,5.3 miles,NA,NA
+693,72000 Magnesia Falls DrRancho MirageCA,2.1 miles,5.3 miles,239 miles,1.2 miles,NA,105 miles,NA,4.5 miles,NA,0.3 mile,NA,1.2 miles,1.2 miles,0.1 mile
+694,18176 Rustic CtFountain ValleyCA,0.9 mile,NA,90.6 miles,2.0 miles,1.2 miles,51.2 miles,NA,40.3 miles,77.2 miles,40.0 miles,50.2 miles,2.8 miles,2.8 miles,2.2 miles
+696,5701 W Talavi BlvdGlendaleAZ,NA,7.4 miles,18.1 miles,NA,NA,1.1 miles,NA,27.3 miles,NA,NA,NA,4.3 miles,NA,NA
+698,6402 Arlington BlvdFalls ChurchVA,1.5 miles,1.3 miles,20.5 miles,3.4 miles,1.4 miles,1.5 miles,NA,1.4 miles,1.3 miles,0.9 mile,NA,3.3 miles,NA,2.1 miles
+699,1110 W Orangethorpe AveFullertonCA,1.4 miles,1.7 miles,1.2 miles,NA,1.1 miles,1.1 miles,NA,1.8 miles,NA,0.3 mile,1.8 miles,3.9 miles,NA,1.0 mile
+700,1027 N CITRUS AVECOVINACA,28.0 miles,0.6 mile,NA,NA,1.1 miles,0.7 mile,NA,0.9 mile,2.7 miles,1.3 miles,16.7 miles,35.4 miles,NA,1.4 miles
+702,4745 W GOLDEN LNGLENDALEAZ,NA,29.2 miles,28.2 miles,NA,NA,10.8 miles,NA,18.8 miles,NA,NA,NA,15.8 miles,NA,NA
+703,3260 E Indian School RdPhoenixAZ,13 ft,13 ft,13 ft,2.4 miles,2.6 miles,2.7 miles,NA,10.6 miles,5.4 miles,486 ft,NA,10.3 miles,NA,0.7 mile
+704,1250 E MCFADDEN AVESANTA ANACA,NA,2.6 miles,NA,NA,NA,5.1 miles,NA,385 miles,NA,2.9 miles,NA,4.3 miles,NA,3.9 miles
+706,7710 NE Greenwood DrVancouverWA,1.5 miles,2.0 miles,12.5 miles,24.4 miles,0.9 mile,1.8 miles,NA,168 miles,NA,0.4 mile,NA,2.0 miles,1.0 mile,0.4 mile
+707,150 E Alamo DrChandlerAZ,NA,NA,135 ft,5.1 miles,7.0 miles,8.9 miles,NA,19.8 miles,9.0 miles,NA,NA,3.4 miles,NA,4.8 miles
+708,16935 W Bernardo DrSan DiegoCA,0.6 mile,397 ft,8.0 miles,17.7 miles,16.2 miles,24.2 miles,NA,5.1 miles,0.6 mile,1.0 mile,NA,2.7 miles,2.6 miles,1.2 miles
+709,854 S Rancho Santa Fe RdSan MarcosCA,0.7 mile,5.0 miles,NA,2.4 miles,2.3 miles,2.0 miles,NA,3.6 miles,NA,0.4 mile,6.9 miles,5.6 miles,5.6 miles,0.4 mile
+710,11351 Random Hills RdFairfaxVA,156 miles,10.1 miles,0.7 mile,2.7 miles,0.3 mile,3.5 miles,NA,13.2 miles,0.7 mile,0.9 mile,NA,3.1 miles,4.3 miles,NA
+711,1600 W Broadway RdTempeAZ,4.8 miles,2.5 miles,6.8 miles,NA,3.4 miles,2.1 miles,NA,18.8 miles,3.2 miles,NA,NA,4.1 miles,NA,0.2 mile
+713,955 Postal WayVistaCA,1.1 miles,0.1 mile,21.1 miles,22.9 miles,2.6 miles,51.5 miles,NA,0.1 mile,NA,1.1 miles,NA,6.5 miles,7.0 miles,3.2 miles
+715,1330 Enclave PkwyHoustonTX,9.0 miles,11.6 miles,5.5 miles,NA,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+718,7090 W BECKER LNPEORIAAZ,15.8 miles,10.3 miles,20.0 miles,18.9 miles,14.0 miles,16.8 miles,NA,NA,NA,6.3 miles,NA,13.9 miles,NA,3.3 miles
+719,7042 W McMahon WayPeoriaAZ,15.8 miles,NA,NA,NA,NA,1.8 miles,NA,36.6 miles,NA,NA,NA,13.9 miles,NA,NA
+720,660 S Glassell StOrangeCA,NA,NA,NA,11.6 miles,NA,3.1 miles,NA,0.4 mile,3.2 miles,2.1 miles,NA,5.6 miles,NA,1.4 miles
+722,5142 Avenida EncinasCarlsbadCA,25.0 miles,59 ft,NA,12.5 miles,6.1 miles,26.8 miles,NA,0.5 mile,NA,NA,NA,4.8 miles,NA,3.0 miles
+723,59 Douvaine CtThe WoodlandsTX,NA,NA,NA,NA,7.9 miles,NA,NA,NA,4.7 miles,NA,NA,42.1 miles,NA,0.4 mile
+724,4730 W Northern Ave Unit 1071GlendaleAZ,NA,2.2 miles,NA,NA,NA,4.5 miles,NA,NA,NA,NA,NA,14.8 miles,NA,6.5 miles
+725,469 S San Vicente LnAnaheimCA,NA,NA,NA,7.1 miles,12.9 miles,47.6 miles,NA,NA,13.6 miles,NA,NA,19.6 miles,NA,1.5 miles
+726,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+727,425 Pontius Ave NSeattleWA,2.4 miles,7.4 miles,10.8 miles,NA,5.0 miles,9.1 miles,NA,1.0 mile,3.5 miles,1.6 miles,NA,0.2 mile,7.2 miles,0.3 mile
+728,33912 CAPE CVDANA POINTCA,"2,628 miles",NA,"2,626 miles","2,636 miles",NA,"2,622 miles",NA,270 miles,244 miles,"2,639 miles","2,640 miles","2,617 miles",NA,"2,638 miles"
+729,11 Tweed LnDanvilleCA,10.4 miles,NA,NA,NA,NA,25.6 miles,NA,NA,NA,NA,NA,3.3 miles,NA,NA
+730,22 DuetIrvineCA,24.4 miles,NA,NA,3.4 miles,6.5 miles,22.1 miles,NA,3.4 miles,NA,NA,NA,NA,NA,NA
+731,849 E Victoria StCarsonCA,0.1 mile,NA,210 ft,NA,0.7 mile,2.2 miles,NA,NA,10.3 miles,3.6 miles,NA,1.1 miles,NA,NA
+732,8080 E Speedway BlvdTucsonAZ,1.8 miles,NA,NA,6.2 miles,0.4 mile,4.4 miles,NA,10.1 miles,12.1 miles,2.5 miles,6.1 miles,2.0 miles,2.0 miles,0.3 mile
+733,1133 Columbia StSan DiegoCA,NA,NA,8.8 miles,3.1 miles,NA,NA,NA,0.7 mile,NA,NA,NA,3.9 miles,NA,0.2 mile
+734,14951 Dallas PkwyDallasTX,1.3 miles,12.2 miles,10.5 miles,12.0 miles,NA,2.9 miles,14.2 miles,10.8 miles,NA,4.0 miles,NA,9.5 miles,8.7 miles,NA
+735,5970 FAIRVIEW RDCHARLOTTENC,NA,NA,NA,0.8 mile,NA,2.9 miles,NA,1.8 miles,NA,NA,NA,5.2 miles,4.2 miles,NA
+736,12415 Imperial HwyNorwalkCA,3.3 miles,0.3 mile,NA,NA,NA,1.0 mile,NA,NA,NA,NA,NA,92.0 miles,NA,0.6 mile
+737,3934 Murphy Canyon RdSan DiegoCA,0.6 mile,0.3 mile,3.6 miles,7.3 miles,0.9 mile,5.7 miles,NA,9.8 miles,2.3 miles,0.7 mile,15.6 miles,207 ft,17.4 miles,0.9 mile
+739,3271 N LITTLE HORSE DRTUCSONAZ,3.1 miles,7.8 miles,19.4 miles,3.8 miles,NA,NA,NA,3.9 miles,NA,3.0 miles,NA,16.0 miles,NA,1.0 mile
+741,50630 SANTA ROSA PLZLA QUINTACA,556 miles,556 miles,555 miles,557 miles,558 miles,555 miles,NA,2.9 miles,NA,558 miles,560 miles,560 miles,560 miles,556 miles
+743,738 Amberwood DrSanta AnaCA,13.6 miles,3.6 miles,NA,NA,NA,2.0 miles,8.4 miles,42.9 miles,NA,NA,NA,1.8 miles,NA,NA
+744,1019 DORNAJO WAYSACRAMENTOCA,NA,NA,6.0 miles,3.5 miles,2.3 miles,3.6 miles,NA,9.8 miles,NA,2.6 miles,NA,2.7 miles,2.7 miles,1.9 miles
+745,1019 DORNAJO WAYSACRAMENTOCA,NA,NA,6.0 miles,3.5 miles,2.3 miles,3.6 miles,NA,9.8 miles,NA,2.6 miles,NA,5.9 miles,2.7 miles,1.9 miles
+747,5681 Lake Murray BlvdLa MesaCA,0.9 mile,1.5 miles,0.9 mile,NA,1.9 miles,4.4 miles,NA,0.9 mile,4.4 miles,2.3 miles,NA,2.2 miles,NA,1.4 miles
+748,721 Dresher RdHorshamPA,4.3 miles,NA,1.9 miles,5.2 miles,2.6 miles,14.8 miles,NA,5.7 miles,9.5 miles,2.1 miles,NA,4.2 miles,NA,0.7 mile
+749,261 Old York RdJenkintownPA,NA,0.4 mile,NA,1.8 miles,0.1 mile,NA,NA,NA,NA,1.1 miles,NA,0.1 mile,0.1 mile,1.1 miles
+750,5 Lancaster CirBay PointCA,38.4 miles,59.4 miles,3.7 miles,9.2 miles,22.9 miles,36.7 miles,NA,39.1 miles,47.4 miles,26.9 miles,NA,32.9 miles,NA,6.9 miles
+751,6655 N CANYON CREST DRTUCSONAZ,3.3 miles,15.3 miles,26.3 miles,4.9 miles,NA,9.6 miles,NA,7.6 miles,NA,3.6 miles,NA,1.3 miles,NA,NA
+752,6655 N CANYON CREST DRTUCSONAZ,3.3 miles,15.3 miles,26.3 miles,4.9 miles,NA,9.6 miles,NA,7.6 miles,NA,3.6 miles,NA,1.3 miles,NA,NA
+753,6655 N CANYON CREST DRTUCSONAZ,3.3 miles,15.3 miles,26.3 miles,4.9 miles,NA,9.6 miles,NA,7.6 miles,NA,3.6 miles,NA,1.3 miles,NA,NA
+754,1045 Westward WayCosta MesaCA,5.5 miles,3.3 miles,77.0 miles,9.4 miles,2.7 miles,1.7 miles,NA,87.7 miles,22.3 miles,2.0 miles,NA,3.2 miles,3.1 miles,3.5 miles
+756,2800 Thorndyke Ave WSeattleWA,NA,NA,79 ft,1.3 miles,NA,NA,NA,NA,NA,276 ft,NA,0.7 mile,NA,2.1 miles
+758,1040 NE Hostmark StPoulsboWA,NA,NA,NA,NA,NA,63.3 miles,NA,NA,NA,NA,NA,11.8 miles,NA,0.1 mile
+759,5702 Kirkpatrick WayIndianapolisIN,7 ft,7 ft,7 ft,5.6 miles,3.3 miles,7.0 miles,NA,NA,6.2 miles,3.0 miles,NA,6.4 miles,NA,NA
+760,6500 W Lake Mead BlvdLas VegasNV,4.1 miles,NA,NA,0.9 mile,1.2 miles,0.9 mile,5.9 miles,1.9 miles,0.8 mile,1.5 miles,NA,3.4 miles,6.9 miles,1.3 miles
+761,12837 Moorpark StStudio CityCA,2.9 miles,NA,NA,8.5 miles,1.8 miles,6.6 miles,NA,32.4 miles,30.3 miles,36.1 miles,18.1 miles,32.8 miles,28.8 miles,NA
+762,12837 Moorpark StStudio CityCA,2.9 miles,NA,NA,8.5 miles,1.8 miles,6.6 miles,NA,32.4 miles,30.3 miles,36.1 miles,18.1 miles,32.8 miles,28.8 miles,NA
+763,425 Gregory LnPleasant HillCA,71.7 miles,1.4 miles,8.7 miles,3.7 miles,1.5 miles,1.9 miles,NA,NA,3.3 miles,0.9 mile,NA,2.4 miles,NA,0.9 mile
+764,16869 DonwestTustinCA,24.2 miles,NA,NA,NA,NA,NA,NA,383 miles,NA,NA,NA,74.4 miles,NA,2.2 miles
+765,50 Catoctin Cir NELeesburgVA,869 miles,0.4 mile,9.9 miles,NA,2.0 miles,NA,NA,NA,NA,NA,NA,4.9 miles,NA,NA
+766,3260 E Indian School RdPhoenixAZ,13 ft,13 ft,13 ft,2.4 miles,2.6 miles,2.7 miles,NA,10.6 miles,5.4 miles,486 ft,NA,10.3 miles,NA,0.7 mile
+767,5550 S Macadam AvePortlandOR,12.8 miles,2.5 miles,8.9 miles,6.4 miles,4.5 miles,3.7 miles,NA,NA,3.5 miles,1.0 mile,NA,3.9 miles,4.0 miles,0.3 mile
+768,19 Andover DrKendall ParkNJ,NA,NA,47.1 miles,270 miles,NA,31.3 miles,NA,5.2 miles,NA,1.9 miles,NA,10.1 miles,2.5 miles,3.1 miles
+769,11351 Random Hills RdFairfaxVA,156 miles,2.5 miles,0.7 mile,2.7 miles,0.3 mile,3.5 miles,NA,13.2 miles,0.7 mile,1.7 miles,NA,3.1 miles,4.3 miles,NA
+770,7464 N 43rd AveGlendaleAZ,NA,NA,148 ft,NA,1.7 miles,1.3 miles,NA,NA,NA,1.7 miles,NA,12.2 miles,NA,2.5 miles
+771,12190 SW 1st StBeavertonOR,NA,NA,NA,NA,NA,18.1 miles,NA,NA,NA,NA,NA,779 miles,NA,NA
+772,PO Box 5640KentWA,NA,NA,NA,21.4 miles,NA,145 miles,NA,97.0 miles,18.5 miles,19.9 miles,23.8 miles,49.1 miles,91.4 miles,24.1 miles
+773,7027 N Scottsdale RdParadise ValleyAZ,NA,1.9 miles,7.7 miles,6.7 miles,NA,6.0 miles,NA,1.6 miles,NA,2.4 miles,NA,2.1 miles,NA,NA
+775,350 S Main StDoylestownPA,NA,1.3 miles,NA,11.4 miles,NA,18.7 miles,NA,NA,1.3 miles,NA,NA,17.1 miles,NA,1.5 miles
+776,11410 Brookshire AveDowneyCA,1.5 miles,0.3 mile,0.0 miles,8.0 miles,1.4 miles,3.5 miles,NA,1.3 miles,NA,2.9 miles,NA,2.9 miles,NA,1.9 miles
+778,207 PARAMOUNTIRVINECA,377 miles,56.5 miles,66.6 miles,12.9 miles,9.5 miles,11.0 miles,NA,3.8 miles,13.7 miles,NA,NA,69.2 miles,58.5 miles,46.3 miles
+779,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.5 miles,0.9 mile,16.7 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,6.9 miles,1.1 miles
+780,325 118th Ave SEBellevueWA,1.3 miles,1.3 miles,2.9 miles,NA,3.3 miles,NA,NA,2.1 miles,NA,NA,NA,4.6 miles,3.0 miles,NA
+781,1776 W March LnStocktonCA,4.3 miles,4.4 miles,NA,NA,NA,NA,NA,NA,NA,2.6 miles,NA,2.9 miles,NA,1.3 miles
+782,15350 SW Sequoia PkwyPortlandOR,10.7 miles,10.0 miles,16.5 miles,5.8 miles,NA,10.4 miles,NA,8.5 miles,8.4 miles,7.9 miles,NA,5.1 miles,NA,121 ft
+783,26840 Aliso Viejo PkwyAliso ViejoCA,0.5 mile,0.7 mile,NA,2.2 miles,0.7 mile,NA,NA,1.9 miles,7.0 miles,0.7 mile,NA,2.5 miles,2.5 miles,1.4 miles
+785,11646 Chenault StLos AngelesCA,30 ft,30 ft,16.6 miles,0.4 mile,16.6 miles,NA,NA,NA,NA,NA,NA,30 ft,NA,0.3 mile
+786,16625 S Desert Foothills PkwyPhoenixAZ,72 ft,72 ft,15.8 miles,31.5 miles,0.9 mile,18.1 miles,NA,11.7 miles,24.8 miles,4.4 miles,NA,2.1 miles,6.9 miles,1.1 miles
+787,3020 Hamaker CtFairfaxVA,16.4 miles,4.0 miles,23.5 miles,10.6 miles,0.8 mile,2.6 miles,NA,NA,6.1 miles,3.7 miles,NA,4.9 miles,7.3 miles,1.0 mile
+789,675 S Sierra AveSolana BeachCA,NA,NA,NA,1.6 miles,NA,74.7 miles,NA,0.3 mile,NA,NA,NA,2.9 miles,NA,1.6 miles
+790,15315 Magnolia BlvdSherman OaksCA,0.0 miles,NA,7 ft,1.0 mile,NA,4.6 miles,NA,29.7 miles,NA,NA,NA,2.7 miles,NA,NA
+791,5050 Avenida EncinasCarlsbadCA,24.9 miles,103 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7 miles,NA,NA
+792,1 BROOKSIDE DRMONROE TOWNSHIPNJ,1.7 miles,2.3 miles,3.8 miles,12.6 miles,9.2 miles,20.7 miles,NA,3.3 miles,29.3 miles,NA,23.8 miles,2.9 miles,2.0 miles,1.7 miles
+793,8478 E Chaparral RdScottsdaleAZ,2.2 miles,0.8 mile,9.4 miles,13.3 miles,9.5 miles,3.4 miles,NA,3.3 miles,4.2 miles,1.7 miles,NA,3.3 miles,2.3 miles,0.8 mile
+794,2089 North 180 EastPROVOUT,491 miles,NA,NA,NA,3.0 miles,2.6 miles,NA,1.6 miles,NA,NA,NA,38.3 miles,NA,NA
+795,17315 Studebaker RdCerritosCA,NA,262 ft,NA,NA,NA,26.3 miles,NA,392 miles,NA,NA,NA,7.5 miles,7.5 miles,1.8 miles
+798,5425 E La Palma AveAnaheimCA,5.0 miles,NA,0.1 mile,NA,10.7 miles,9.7 miles,NA,2.8 miles,12.6 miles,0.4 mile,NA,3.4 miles,NA,0.5 mile
+801,1330 Enclave PkwyHoustonTX,9.0 miles,3.2 miles,5.5 miles,NA,NA,3.6 miles,NA,1.8 miles,NA,NA,NA,12.4 miles,9.0 miles,NA
+802,20847 Sherman WayWinnetkaCA,10.8 miles,13.0 miles,7.3 miles,11.4 miles,7.2 miles,3.0 miles,NA,19.8 miles,6.1 miles,3.3 miles,NA,7.7 miles,6.8 miles,1.1 miles
+803,19420 Golf Vista PlzLeesburgVA,NA,NA,5.9 miles,1.1 miles,3.6 miles,198 miles,NA,NA,NA,NA,NA,9.2 miles,NA,1.0 mile
+804,4819 Collwood BlvdSan DiegoCA,499 ft,499 ft,8.6 miles,6.7 miles,2.7 miles,4.8 miles,NA,12.1 miles,7.2 miles,1.9 miles,NA,1.3 miles,23.4 miles,3.9 miles
+805,5300 Playa Vista DrPlaya VistaCA,0.2 mile,NA,4.2 miles,1.0 mile,2.6 miles,4.4 miles,NA,0.7 mile,2.7 miles,0.9 mile,NA,1.9 miles,1.9 miles,1.0 mile
+806,11020 Caminito Vista PacificaSan DiegoCA,NA,NA,5.3 miles,16.9 miles,NA,1.9 miles,NA,19.2 miles,NA,4.3 miles,NA,12.9 miles,NA,NA
+807,406 Scottsdale RdPleasant HillCA,55.8 miles,2.0 miles,766 miles,762 miles,765 miles,749 miles,NA,762 miles,749 miles,761 miles,767 miles,765 miles,766 miles,765 miles
+808,17220 N Boswell BlvdSun CityAZ,1.6 miles,0.2 mile,NA,NA,0.9 mile,1.2 miles,NA,NA,NA,0.4 mile,NA,1.0 mile,1.0 mile,0.9 mile
+809,4854 Heritage DrYorba LindaCA,42.2 miles,2.6 miles,NA,2.0 miles,0.3 mile,21.8 miles,NA,266 ft,NA,NA,NA,NA,NA,0.7 mile
+810,6306 Sagebrush Bend WaySan DiegoCA,NA,NA,NA,6.8 miles,10.3 miles,16.1 miles,NA,20.1 miles,NA,11.1 miles,NA,4.5 miles,4.5 miles,1.1 miles
+812,9610 Waples StSan DiegoCA,NA,NA,8.6 miles,13.5 miles,15.5 miles,15.9 miles,15.5 miles,17.8 miles,0.7 mile,1.3 miles,NA,3.4 miles,NA,8.9 miles
+813,450 N Dobson RdMesaAZ,3.8 miles,0.0 miles,0.0 miles,NA,1.7 miles,0.6 mile,NA,13.4 miles,7.1 miles,0.9 mile,NA,3.5 miles,3.5 miles,2.1 miles
+814,15315 Magnolia BlvdSherman OaksCA,0.0 miles,NA,7 ft,1.0 mile,NA,4.6 miles,NA,29.7 miles,NA,NA,NA,2.7 miles,NA,NA
+815,1696 Puente AveBaldwin ParkCA,3.3 miles,1.8 miles,5.6 miles,15.2 miles,440 ft,2.0 miles,NA,NA,21.9 miles,0.5 mile,NA,6.4 miles,NA,0.1 mile
+816,11351 Random Hills RdFairfaxVA,156 miles,10.1 miles,0.7 mile,2.7 miles,0.3 mile,3.5 miles,NA,13.2 miles,0.7 mile,0.9 mile,NA,3.1 miles,4.3 miles,NA
+817,7303 Stonedale DrPleasantonCA,NA,NA,NA,4.0 miles,4.9 miles,37.3 miles,NA,NA,NA,4.9 miles,NA,7.1 miles,7.1 miles,3.5 miles
+818,7800 E LINCOLN DRSCOTTSDALEAZ,1.1 miles,2.9 miles,9.6 miles,NA,NA,387 miles,NA,2.5 miles,NA,NA,NA,0.5 mile,NA,1.4 miles
+819,1 Club House WaySwedesboroNJ,79.9 miles,71.5 miles,114 miles,42.3 miles,19.2 miles,149 miles,NA,94.5 miles,119 miles,NA,NA,40.6 miles,45.8 miles,24.7 miles
+820,2803 Elm Grove CtKingwoodTX,238 miles,267 miles,241 miles,235 miles,262 miles,28.3 miles,NA,41.7 miles,36.2 miles,NA,NA,49.9 miles,NA,1.4 miles
+821,9001 Airport FwyNorth Richland HillsTX,4.3 miles,4.2 miles,1.5 miles,NA,5.8 miles,2.2 miles,NA,4.9 miles,NA,NA,NA,4.1 miles,NA,5.1 miles
+822,14501 Tupper StPanorama CityCA,NA,NA,NA,9.4 miles,1.4 miles,NA,NA,NA,NA,NA,NA,NA,NA,NA
+823,1500 112th Ave NEBellevueWA,0.8 mile,0.8 mile,3.9 miles,1.4 miles,3.1 miles,NA,NA,1.6 miles,2.6 miles,3.2 miles,4.4 miles,4.4 miles,3.2 miles,1.2 miles
+824,141 S Clark DrWest HollywoodCA,NA,NA,NA,2.6 miles,1.7 miles,"2,028 miles",NA,1.6 miles,4.9 miles,2.1 miles,7.5 miles,8.5 miles,NA,NA
+825,5365 Aztec DrLa MesaCA,NA,NA,NA,10.0 miles,1.5 miles,NA,NA,NA,NA,NA,NA,NA,NA,1.0 mile
+826,2165 E University DrMesaAZ,1.3 miles,NA,1.1 miles,9.3 miles,0.8 mile,1.4 miles,NA,8.1 miles,4.4 miles,5.8 miles,22.6 miles,7.9 miles,5.1 miles,2.0 miles
